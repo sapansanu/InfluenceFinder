@@ -2,26 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b6e21ae-1bd0-41ed-abdb-8e1454c4c325" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/TopTrend1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/DaphnyRaes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/cookinglabz.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/BestSneakersEv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/Gurgwww.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/Heels_and_Elles.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/MJsneaks1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/SkejulME.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/Xprtly.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/caviar_diva.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/jigmasterjake.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/kpizzu1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/l__juuce__l.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/scottbot_17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/software4iot.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/real_users/followers/followers2/mjoehlerich.json" afterPath="$PROJECT_DIR$/data/real_users/followers/followers2/mjoehlerich.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_collection/followers_level_1.py" afterPath="$PROJECT_DIR$/data_collection/followers_level_1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_collection/followers_level_2.py" afterPath="$PROJECT_DIR$/data_collection/followers_level_2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_collection/influence_finder.py" afterPath="$PROJECT_DIR$/data_collection/influence_finder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_collection/.idea/workspace.xml" afterPath="$PROJECT_DIR$/data_collection/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/graphs/test.gexf" afterPath="$PROJECT_DIR$/real_data/graphs/test.gexf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/test_results/network_results.json" afterPath="$PROJECT_DIR$/real_data/test_results/network_results.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/AdamSmitht1.json" afterPath="$PROJECT_DIR$/real_data/user_stats/AdamSmitht1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/DeaddFvck.json" afterPath="$PROJECT_DIR$/real_data/user_stats/DeaddFvck.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/ElynJonesCBC.json" afterPath="$PROJECT_DIR$/real_data/user_stats/ElynJonesCBC.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/FUNRADIO929NEWS.json" afterPath="$PROJECT_DIR$/real_data/user_stats/FUNRADIO929NEWS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/IFB_Bioinfo.json" afterPath="$PROJECT_DIR$/real_data/user_stats/IFB_Bioinfo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/JFoss117.json" afterPath="$PROJECT_DIR$/real_data/user_stats/JFoss117.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/JustOpenSourced.json" afterPath="$PROJECT_DIR$/real_data/user_stats/JustOpenSourced.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/LearnRinaDay.json" afterPath="$PROJECT_DIR$/real_data/user_stats/LearnRinaDay.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/MaymeBerry2.json" afterPath="$PROJECT_DIR$/real_data/user_stats/MaymeBerry2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/MrDevilAdvocate.json" afterPath="$PROJECT_DIR$/real_data/user_stats/MrDevilAdvocate.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/PythonQnA.json" afterPath="$PROJECT_DIR$/real_data/user_stats/PythonQnA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/_noelove.json" afterPath="$PROJECT_DIR$/real_data/user_stats/_noelove.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/alryadieh.json" afterPath="$PROJECT_DIR$/real_data/user_stats/alryadieh.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/arichduvet.json" afterPath="$PROJECT_DIR$/real_data/user_stats/arichduvet.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/ciro.json" afterPath="$PROJECT_DIR$/real_data/user_stats/ciro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/datagz.json" afterPath="$PROJECT_DIR$/real_data/user_stats/datagz.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/errahul289.json" afterPath="$PROJECT_DIR$/real_data/user_stats/errahul289.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/homelabit.json" afterPath="$PROJECT_DIR$/real_data/user_stats/homelabit.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/iamspricey.json" afterPath="$PROJECT_DIR$/real_data/user_stats/iamspricey.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/mmccloskey5279.json" afterPath="$PROJECT_DIR$/real_data/user_stats/mmccloskey5279.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/mnitabach.json" afterPath="$PROJECT_DIR$/real_data/user_stats/mnitabach.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/nafhha.json" afterPath="$PROJECT_DIR$/real_data/user_stats/nafhha.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/oxenfree89.json" afterPath="$PROJECT_DIR$/real_data/user_stats/oxenfree89.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/pypi_updates2.json" afterPath="$PROJECT_DIR$/real_data/user_stats/pypi_updates2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/pythonbot_.json" afterPath="$PROJECT_DIR$/real_data/user_stats/pythonbot_.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/stencila.json" afterPath="$PROJECT_DIR$/real_data/user_stats/stencila.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/tmj_atl_jobs.json" afterPath="$PROJECT_DIR$/real_data/user_stats/tmj_atl_jobs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/triat1252.json" afterPath="$PROJECT_DIR$/real_data/user_stats/triat1252.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stats_driver.py" afterPath="$PROJECT_DIR$/stats_driver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_info.py" afterPath="$PROJECT_DIR$/twitter_info.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,13 +50,47 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="influence_finder.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="influence_finder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stats_driver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stats_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#84#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter_stack_driver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_stack_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,11 +99,9 @@
       <file leaf-file-name="followers_level_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="120">
               <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,11 +109,9 @@
       <file leaf-file-name="followers_level_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,6 +130,8 @@
         <option value="$PROJECT_DIR$/data_collection/followers_level_1.py" />
         <option value="$PROJECT_DIR$/data_collection/followers_level_2.py" />
         <option value="$PROJECT_DIR$/data_collection/influence_finder.py" />
+        <option value="$PROJECT_DIR$/twitter_info.py" />
+        <option value="$PROJECT_DIR$/stats_driver.py" />
       </list>
     </option>
   </component>
@@ -108,22 +154,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InfluenceFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InfluenceFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data_collection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="InfluenceFinder" />
@@ -136,14 +169,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.influence_finder">
+  <component name="RunManager" selected="Python.twitter_stack_driver">
     <configuration default="false" name="influence_finder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,6 +189,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InfluenceFinder" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence_finder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="twitter_stack_driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InfluenceFinder" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter_stack_driver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -308,12 +357,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.influence_finder" />
+      <item index="1" class="java.lang.String" itemvalue="Python.twitter_stack_driver" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.influence_finder" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.twitter_stack_driver" />
+        <item index="1" class="java.lang.String" itemvalue="Python.influence_finder" />
       </list>
     </recent_temporary>
   </component>
@@ -324,11 +375,10 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -336,6 +386,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -348,33 +399,81 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/influence_finder.py" />
-    <entry file="file://$PROJECT_DIR$/followers_level_1.py" />
-    <entry file="file://$PROJECT_DIR$/followers_level_2.py" />
-    <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
+    <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="120">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influence_finder.py" />
+    <entry file="file://$PROJECT_DIR$/followers_level_1.py" />
+    <entry file="file://$PROJECT_DIR$/followers_level_2.py" />
+    <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#84#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_stack_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
