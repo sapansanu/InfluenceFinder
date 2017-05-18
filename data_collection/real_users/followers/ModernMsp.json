@@ -1,12 +1,12 @@
 {
-    "verified": false, 
-    "screen_name": "ModernMsp", 
-    "friends_count": 4496, 
-    "influence_score": 2298.93, 
-    "followers_count": 4582, 
-    "average_favorite_count": 35.0, 
-    "authorid": 732696159563616258, 
-    "follower_list": [], 
-    "average_retweet_count": 6.0, 
-    "tweet_count": 1
+    "authorid": 732696159563616258,
+    "screen_name": "ModernMsp",
+    "followers_count": 4727,
+    "friends_count": 3390,
+    "verified": false,
+    "average_retweet_count": 6.0,
+    "average_favorite_count": 35.0,
+    "influence_score": 2371.43,
+    "tweet_count": 2,
+    "follower_list": []
 }

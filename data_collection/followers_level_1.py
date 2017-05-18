@@ -33,7 +33,7 @@ def get_L1_follower_profile(follower, user_screen_name):
     total_favourite = 0
     tweet_count  = 0
     follower_screen_name = follower.screen_name
-    for i in range(5):
+    for i in range(25):
         try:
             timeline = finder.api.user_timeline(follower_screen_name, page=i, count=200)
         except tweepy.TweepError as e:

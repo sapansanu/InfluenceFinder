@@ -43,7 +43,7 @@ def get_user_profile(data):
     total_favourite = 0
     tweet_count  = 0
     screen_name = data['screen_name']
-    for i in range(5):
+    for i in range(25):
         try:
             timeline = api.user_timeline(screen_name, page=i, count=200)
         except tweepy.TweepError as e:
