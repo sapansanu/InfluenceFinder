@@ -6,7 +6,6 @@
 
 import tweepy
 import json
-import os
 
 directory_to_search = '/home/trent/Documents/School/Spring 2017/CSC 877 Big Data Analysis/keys/'
 

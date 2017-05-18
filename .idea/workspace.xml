@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5b6e21ae-1bd0-41ed-abdb-8e1454c4c325" name="Default" comment="" />
+=======
+    <list default="true" id="5b6e21ae-1bd0-41ed-abdb-8e1454c4c325" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_collection/.idea/workspace.xml" afterPath="$PROJECT_DIR$/data_collection/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/graphs/test.gexf" afterPath="$PROJECT_DIR$/real_data/graphs/test.gexf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/test_results/network_results.json" afterPath="$PROJECT_DIR$/real_data/test_results/network_results.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/AdamSmitht1.json" afterPath="$PROJECT_DIR$/real_data/user_stats/AdamSmitht1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/DeaddFvck.json" afterPath="$PROJECT_DIR$/real_data/user_stats/DeaddFvck.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/ElynJonesCBC.json" afterPath="$PROJECT_DIR$/real_data/user_stats/ElynJonesCBC.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/FUNRADIO929NEWS.json" afterPath="$PROJECT_DIR$/real_data/user_stats/FUNRADIO929NEWS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/IFB_Bioinfo.json" afterPath="$PROJECT_DIR$/real_data/user_stats/IFB_Bioinfo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/JFoss117.json" afterPath="$PROJECT_DIR$/real_data/user_stats/JFoss117.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/JustOpenSourced.json" afterPath="$PROJECT_DIR$/real_data/user_stats/JustOpenSourced.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/LearnRinaDay.json" afterPath="$PROJECT_DIR$/real_data/user_stats/LearnRinaDay.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/MaymeBerry2.json" afterPath="$PROJECT_DIR$/real_data/user_stats/MaymeBerry2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/MrDevilAdvocate.json" afterPath="$PROJECT_DIR$/real_data/user_stats/MrDevilAdvocate.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/PythonQnA.json" afterPath="$PROJECT_DIR$/real_data/user_stats/PythonQnA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/_noelove.json" afterPath="$PROJECT_DIR$/real_data/user_stats/_noelove.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/alryadieh.json" afterPath="$PROJECT_DIR$/real_data/user_stats/alryadieh.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/arichduvet.json" afterPath="$PROJECT_DIR$/real_data/user_stats/arichduvet.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/ciro.json" afterPath="$PROJECT_DIR$/real_data/user_stats/ciro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/datagz.json" afterPath="$PROJECT_DIR$/real_data/user_stats/datagz.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/errahul289.json" afterPath="$PROJECT_DIR$/real_data/user_stats/errahul289.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/homelabit.json" afterPath="$PROJECT_DIR$/real_data/user_stats/homelabit.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/iamspricey.json" afterPath="$PROJECT_DIR$/real_data/user_stats/iamspricey.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/mmccloskey5279.json" afterPath="$PROJECT_DIR$/real_data/user_stats/mmccloskey5279.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/mnitabach.json" afterPath="$PROJECT_DIR$/real_data/user_stats/mnitabach.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/nafhha.json" afterPath="$PROJECT_DIR$/real_data/user_stats/nafhha.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/oxenfree89.json" afterPath="$PROJECT_DIR$/real_data/user_stats/oxenfree89.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/pypi_updates2.json" afterPath="$PROJECT_DIR$/real_data/user_stats/pypi_updates2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/pythonbot_.json" afterPath="$PROJECT_DIR$/real_data/user_stats/pythonbot_.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/stencila.json" afterPath="$PROJECT_DIR$/real_data/user_stats/stencila.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/tmj_atl_jobs.json" afterPath="$PROJECT_DIR$/real_data/user_stats/tmj_atl_jobs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_data/user_stats/triat1252.json" afterPath="$PROJECT_DIR$/real_data/user_stats/triat1252.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stats_driver.py" afterPath="$PROJECT_DIR$/stats_driver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_info.py" afterPath="$PROJECT_DIR$/twitter_info.py" />
+    </list>
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +54,74 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="influence_finder.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="influence_finder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="210">
               <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
+=======
+            <state relative-caret-position="150">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stats_driver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stats_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#84#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter_stack_driver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_stack_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="followers_level_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="followers_level_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
             </state>
           </provider>
         </entry>
@@ -39,12 +140,16 @@
         <option value="$PROJECT_DIR$/data_collection/followers_level_1.py" />
         <option value="$PROJECT_DIR$/data_collection/followers_level_2.py" />
         <option value="$PROJECT_DIR$/data_collection/influence_finder.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/twitter_stack_driver.py" />
         <option value="$PROJECT_DIR$/user.py" />
         <option value="$PROJECT_DIR$/user_stats.py" />
         <option value="$PROJECT_DIR$/get_stats.py" />
         <option value="$PROJECT_DIR$/draw_graph.py" />
         <option value="$PROJECT_DIR$/read.py" />
+=======
+        <option value="$PROJECT_DIR$/twitter_info.py" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
         <option value="$PROJECT_DIR$/stats_driver.py" />
       </list>
     </option>
@@ -70,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -81,6 +187,7 @@
               <option name="myItemId" value="InfluenceFinder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -100,6 +207,11 @@
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+          </PATH>
+        </subPane>
+      </pane>
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +237,28 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="twitter_driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="twitter_stack_driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InfluenceFinder" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter_stack_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -293,6 +426,7 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.influence_finder" />
       <item index="1" class="java.lang.String" itemvalue="Python.twitter_driver" />
@@ -303,6 +437,16 @@
         <item index="0" class="java.lang.String" itemvalue="Python.twitter_stack_driver" />
         <item index="1" class="java.lang.String" itemvalue="Python.twitter_driver" />
         <item index="2" class="java.lang.String" itemvalue="Python.influence_finder" />
+=======
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.influence_finder" />
+      <item index="1" class="java.lang.String" itemvalue="Python.twitter_stack_driver" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.twitter_stack_driver" />
+        <item index="1" class="java.lang.String" itemvalue="Python.influence_finder" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +467,7 @@
     <frame x="75" y="52" width="1845" height="998" extended-state="1" />
     <editor active="false" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16959386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -332,6 +477,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -339,6 +490,10 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -371,6 +526,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="294">
           <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
@@ -405,6 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
       <provider selected="true" editor-type-id="text-editor">
+=======
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -413,7 +571,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="168">
+=======
+        <state relative-caret-position="120">
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
@@ -421,7 +583,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="105">
+=======
+        <state relative-caret-position="75">
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -432,7 +598,11 @@
     <entry file="file://$PROJECT_DIR$/followers_level_2.py" />
     <entry file="file://$PROJECT_DIR$/data_collection/followers_level_1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="105">
+=======
+        <state relative-caret-position="75">
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -441,12 +611,17 @@
     <entry file="file://$PROJECT_DIR$/twitter_driver.py" />
     <entry file="file://$PROJECT_DIR$/data_collection/followers_level_2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="168">
+=======
+        <state relative-caret-position="120">
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/get_stats.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -459,12 +634,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/data_collection/influence_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_info.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="84">
           <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
@@ -477,10 +659,17 @@
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#206#217#0" expanded="true" />
+=======
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#84#97#0" expanded="true" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -521,6 +710,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/twitter_stack_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+>>>>>>> ae599eda997b467ea9405162bb352b5364898516
           <folding>
             <element signature="e#81#102#0" expanded="true" />
           </folding>

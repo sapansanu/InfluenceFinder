@@ -17,8 +17,7 @@ import math
 import read
 import user_stats
 import user
-import pylab
-
+1
 def line_plot(tuple1, tuple2):
     fig = plt.figure(figsize=(10, 6))
     user_list = []
