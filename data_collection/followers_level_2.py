@@ -12,7 +12,7 @@ def find_L2_follower_list(screen_name):
             follower = next(followers)
         except tweepy.TweepError as e:
             print(e)
-            print('Follower2 list: RATE LIMIT - waiting 15 minute...')
+            print('RATE LIMIT - waiting 15 minute...')
             time.sleep(60*15)
             follower = next(followers)
         except StopIteration:
@@ -26,13 +26,13 @@ def get_L2_follower_profile(follower, user_screen_name):
     total_favourite = 0
     tweet_count  = 0
     follower_screen_name = follower.screen_name
-    for i in range(1):
+    for i in range(25):
         try:
             timeline = finder.api.user_timeline(follower_screen_name, page=i, count=200)
         except tweepy.TweepError as e:
             if "Not authorized" in str(e):
                 print(e)
-                print("Failed to run command on user, Skipping...")
+                print("User timeline is private, Skipping...")
                 return
             elif "Connection broken" in str(e):
                 print(e)
@@ -44,12 +44,12 @@ def get_L2_follower_profile(follower, user_screen_name):
                 return
             else:
                 print(e)
-                print('Follower2 detail: RATE LIMIT - waiting 15 minute...')
+                print('RATE LIMIT - waiting 15 minute...')
                 time.sleep(60*15)
                 return
         for tweet in timeline:
                 if (("python" in tweet.text or "Python" in tweet.text) and not tweet.retweeted):
-                    print(tweet.text)
+                    print("Reading tweet : "+tweet.text)
                     total_retweet += tweet.retweet_count
                     total_favourite += tweet.favorite_count
                     tweet_count += 1

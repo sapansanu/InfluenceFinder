@@ -29,7 +29,7 @@ def search_tweets(word, c):
         data['tweet_count'] = ""
         data['follower_list'] = []
         get_user_profile(data)
-    return True
+
 
 def get_user_profile(data):
     global api, path
@@ -37,7 +37,7 @@ def get_user_profile(data):
     total_favourite = 0
     tweet_count  = 0
     screen_name = data['screen_name']
-    for i in range(1):
+    for i in range(25):
         try:
             timeline = api.user_timeline(screen_name, page=i, count=200)
         except tweepy.TweepError as e:
@@ -52,7 +52,7 @@ def get_user_profile(data):
                 return
         for tweet in timeline:
                 if (("python" in tweet.text or "Python" in tweet.text) and not tweet.retweeted):
-                    print(tweet.text)
+                    print("Reading tweet : "+tweet.text)
                     total_retweet += tweet.retweet_count
                     total_favourite += tweet.favorite_count
                     tweet_count += 1
@@ -103,6 +103,7 @@ def follower_json(follower):
     follower_data['follower_list'] = []
     return follower_data
 
+
 def get_variables():
     global api, path, followers_L1_path, followers_L2_path
     path = "./real_users/"
@@ -111,6 +112,7 @@ def get_variables():
     # OAuth key file
     authfile = './auth.k'
     api = authorize(authfile)
+
 
 # MAIN ROUTINE
 def main():
