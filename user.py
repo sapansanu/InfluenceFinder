@@ -1,3 +1,9 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# user class to be generated
+
 class User:
     def __init__(self, user_id):
         self.user_id = user_id

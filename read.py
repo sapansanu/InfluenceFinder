@@ -1,3 +1,9 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# reads json files and returns them as user objects
+
 import user
 import json
 

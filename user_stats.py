@@ -1,3 +1,10 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# user stats class
+
+
 class User_Stats:
     def __init__(self, user, depth_scores, depth_followers, network_score):
         self.user_id = user.user_id

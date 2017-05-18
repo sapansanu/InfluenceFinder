@@ -1,3 +1,9 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# main driver for data analysis
+
 import networkx as nx
 import read
 import json

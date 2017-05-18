@@ -1,3 +1,13 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# run stats compilation and data analysis
+# generates graphs for the data set specified
+# [0] real data set
+# [1] fake data set 10k
+# [2] fake data set 100k
+
 import json
 import os
 import matplotlib.pyplot as plt
@@ -162,8 +172,10 @@ def compile_stats_driver(network_stats_file_name, directory_to_search, test_out_
         influence_scores = order_real_influence(directory_to_search[index])
     network_tuple_scores = order_network_stats(test_out_directory[index], network_stats_file_name)
     total_num_files = len(network_tuple_scores)
-
-    k = input('Enter the top k number of users you want to see ranked: ')
+    limit = len(influence_scores)
+    k = limit + 1
+    while int(k) > limit:
+        k = input('Enter the top k number of users you want to see ranked (max ' + str(limit) + '): ')
     print('\nOriginal Influence Score')
     for i in range(int(k)):
         print('Rank', i + 1, influence_scores[i])

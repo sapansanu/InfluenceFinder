@@ -1,9 +1,15 @@
+# Trent Liu
+# tliu3@mail.sfsu.edu
+# 4/29/2017
+#
+# runs through specified directory and compiles user information
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import os
 import json
 import user
-import min_user
+
 
 d = {}
 g = nx.DiGraph()
