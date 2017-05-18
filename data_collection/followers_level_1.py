@@ -1,3 +1,7 @@
+# Sapan Tiwari
+#
+# Finds level 1 follower list and details
+
 import time
 import tweepy
 import json
@@ -5,6 +9,7 @@ import influence_finder as finder
 import followers_level_2 as f2
 
 
+# Finds level 1 follower list
 def find_L1_follower_list(screen_name):
     finder.get_variables()
     followers = tweepy.Cursor(finder.api.followers, screen_name=screen_name, count=200).items()
@@ -21,6 +26,7 @@ def find_L1_follower_list(screen_name):
         get_L1_follower_profile(follower, screen_name)
 
 
+# Finds level 1 follower details
 def get_L1_follower_profile(follower, user_screen_name):
     finder.get_variables()
     total_retweet= 0

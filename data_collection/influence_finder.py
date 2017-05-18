@@ -1,3 +1,7 @@
+# Sapan Tiwari
+#
+# Main class handling data collection
+
 import json
 import os
 import time
@@ -15,14 +19,15 @@ def authorize(authfile):
     return tweepy.API(auth1)
 
 
+# Searches tweets for a keyword
 def search_tweets(word, c):
     for tweet in tweepy.Cursor(api.search, q=word, lang="en", count=c).items(c):
         data = {}
-        data['authorid'] = authorid = tweet.author.id  # author/user ID#
-        data['screen_name'] = screen_name = tweet.author.screen_name
-        data['followers_count'] = followers_count = tweet.author.followers_count  # number of author/user followers (inlink)
-        data['friends_count'] = friends_count = tweet.author.friends_count  # number of author/user friends (outlink)
-        data['verified'] = verified = tweet.author.verified
+        data['authorid'] = tweet.author.id  # author/user ID#
+        data['screen_name'] = tweet.author.screen_name
+        data['followers_count'] = tweet.author.followers_count  # number of author/user followers
+        data['friends_count'] = tweet.author.friends_count  # number of author/user friends
+        data['verified'] = tweet.author.verified
         data['average_retweet_count'] = ""
         data['average_favorite_count'] = ""
         data['influence_score'] = ""
@@ -31,6 +36,7 @@ def search_tweets(word, c):
         get_user_profile(data)
 
 
+# Get user details
 def get_user_profile(data):
     global api, path
     total_retweet= 0
@@ -68,6 +74,8 @@ def get_user_profile(data):
     else:
         return
 
+
+# Calculates influence score
 def calculate_scores(average_retweet, average_favourite, tweet_count, data):
     print("calculating score..")
     data['average_retweet_count'] = average_retweet
@@ -79,6 +87,7 @@ def calculate_scores(average_retweet, average_favourite, tweet_count, data):
     return data
 
 
+# Writes json file
 def write_json(screen_name, data, write_path):
     print("Write path :"+str(write_path))
     if not os.path.exists(write_path):
@@ -89,13 +98,14 @@ def write_json(screen_name, data, write_path):
     print("Writen : "+str(screen_name))
 
 
+# Returns follower's json
 def follower_json(follower):
     follower_data = {}
-    follower_data['authorid'] = authorid = follower.id  # author/user ID#
-    follower_data['screen_name'] = f_screen_name = follower.screen_name
-    follower_data['followers_count'] = followers_count = follower.followers_count  # number of author/user followers (inlink)
-    follower_data['friends_count'] = friends_count = follower.friends_count  # number of author/user friends (outlink)
-    follower_data['verified'] = verified = follower.verified
+    follower_data['authorid'] = follower.id  # author/user ID#
+    follower_data['screen_name'] = follower.screen_name
+    follower_data['followers_count'] = follower.followers_count  # number of author/user followers
+    follower_data['friends_count'] = follower.friends_count  # number of author/user friends
+    follower_data['verified'] = follower.verified
     follower_data['average_retweet_count'] = ""
     follower_data['average_favorite_count'] = ""
     follower_data['influence_score'] = ""
@@ -104,11 +114,12 @@ def follower_json(follower):
     return follower_data
 
 
+# Sets global variables
 def get_variables():
     global api, path, followers_L1_path, followers_L2_path
     path = "./real_users/"
     followers_L1_path = path+"followers/"
-    followers_L2_path = followers_L1_path+ "followers2/"
+    followers_L2_path = followers_L1_path+ "followers/"
     # OAuth key file
     authfile = './auth.k'
     api = authorize(authfile)
