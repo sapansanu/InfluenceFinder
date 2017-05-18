@@ -1,0 +1,1188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="__lucas" label="__lucas" />
+      <node id="yand2008" label="yand2008" />
+      <node id="LearnRinaDay" label="LearnRinaDay" />
+      <node id="MaymeBerry2" label="MaymeBerry2" />
+      <node id="Terezappcom" label="Terezappcom" />
+      <node id="JStuhlman" label="JStuhlman" />
+      <node id="kara_d" label="kara_d" />
+      <node id="jesienlinuksowa" label="jesienlinuksowa" />
+      <node id="scott_fay" label="scott_fay" />
+      <node id="cloudaus" label="cloudaus" />
+      <node id="plotlygraphs" label="plotlygraphs" />
+      <node id="technicoder" label="technicoder" />
+      <node id="ComSci2016x" label="ComSci2016x" />
+      <node id="defiler" label="defiler" />
+      <node id="chinta" label="chinta" />
+      <node id="Neurosarda" label="Neurosarda" />
+      <node id="ErvinLemark" label="ErvinLemark" />
+      <node id="TableauBot" label="TableauBot" />
+      <node id="IanMulvany" label="IanMulvany" />
+      <node id="s_j_newhouse" label="s_j_newhouse" />
+      <node id="SutantoEliza" label="SutantoEliza" />
+      <node id="SachaTB" label="SachaTB" />
+      <node id="RarePepeParty" label="RarePepeParty" />
+      <node id="jonathandinu" label="jonathandinu" />
+      <node id="vxroot" label="vxroot" />
+      <node id="DD_Serena_" label="DD_Serena_" />
+      <node id="zuhayer_work" label="zuhayer_work" />
+      <node id="vasiliy_lebedev" label="vasiliy_lebedev" />
+      <node id="abtran" label="abtran" />
+      <node id="Wmorrow" label="Wmorrow" />
+      <node id="DisruptTeknics" label="DisruptTeknics" />
+      <node id="patrickjacobson" label="patrickjacobson" />
+      <node id="YAMER5" label="YAMER5" />
+      <node id="ColinBotten" label="ColinBotten" />
+      <node id="HackingTutors" label="HackingTutors" />
+      <node id="GraveBone" label="GraveBone" />
+      <node id="sjockers" label="sjockers" />
+      <node id="UCDflowerpower" label="UCDflowerpower" />
+      <node id="awkso" label="awkso" />
+      <node id="Nikhilwagle" label="Nikhilwagle" />
+      <node id="BitPalTrade" label="BitPalTrade" />
+      <node id="jelenaadzic" label="jelenaadzic" />
+      <node id="benmarwick" label="benmarwick" />
+      <node id="FranFrobleda" label="FranFrobleda" />
+      <node id="10i10" label="10i10" />
+      <node id="AlmaxAnalytics" label="AlmaxAnalytics" />
+      <node id="gugadev" label="gugadev" />
+      <node id="rambujo" label="rambujo" />
+      <node id="GKSynerzip" label="GKSynerzip" />
+      <node id="spotdesknyc" label="spotdesknyc" />
+      <node id="The_Chill_Place" label="The_Chill_Place" />
+      <node id="rsNeatPublish" label="rsNeatPublish" />
+      <node id="HistoryOfColor" label="HistoryOfColor" />
+      <node id="JadeRenee" label="JadeRenee" />
+      <node id="NaturallyAlexM" label="NaturallyAlexM" />
+      <node id="WilliamJakesta" label="WilliamJakesta" />
+      <node id="BauLandscape" label="BauLandscape" />
+      <node id="openscience" label="openscience" />
+      <node id="A_Becca88" label="A_Becca88" />
+      <node id="Pounds4u2" label="Pounds4u2" />
+      <node id="Harieesss" label="Harieesss" />
+      <node id="simon_swain" label="simon_swain" />
+      <node id="FertigLab" label="FertigLab" />
+      <node id="blahah404" label="blahah404" />
+      <node id="marcelofabiani" label="marcelofabiani" />
+      <node id="pythonbot_" label="pythonbot_" />
+      <node id="IgorKripter" label="IgorKripter" />
+      <node id="1hourpro" label="1hourpro" />
+      <node id="IanHawke" label="IanHawke" />
+      <node id="awallon555" label="awallon555" />
+      <node id="CordeiroRick" label="CordeiroRick" />
+      <node id="101Computing" label="101Computing" />
+      <node id="triat1252" label="triat1252" />
+      <node id="ElynJonesCBC" label="ElynJonesCBC" />
+      <node id="JasonWilliamsNY" label="JasonWilliamsNY" />
+      <node id="DeepLearningSV" label="DeepLearningSV" />
+      <node id="TwinklePortal" label="TwinklePortal" />
+      <node id="rthille" label="rthille" />
+      <node id="drjoyce_knudsen" label="drjoyce_knudsen" />
+      <node id="DBetebenner" label="DBetebenner" />
+      <node id="MoyaBrannan" label="MoyaBrannan" />
+      <node id="PapillonV5" label="PapillonV5" />
+      <node id="SerB1979" label="SerB1979" />
+      <node id="sneakersdrop" label="sneakersdrop" />
+      <node id="pengkiat" label="pengkiat" />
+      <node id="ArtByteMe" label="ArtByteMe" />
+      <node id="yukonbeer" label="yukonbeer" />
+      <node id="o_revollat" label="o_revollat" />
+      <node id="georgehousing" label="georgehousing" />
+      <node id="Lionheart0075" label="Lionheart0075" />
+      <node id="benthebray" label="benthebray" />
+      <node id="JeffBlaskie" label="JeffBlaskie" />
+      <node id="ParYeezus" label="ParYeezus" />
+      <node id="edgenorth_" label="edgenorth_" />
+      <node id="ipfconline1" label="ipfconline1" />
+      <node id="76Pauls" label="76Pauls" />
+      <node id="d_neville" label="d_neville" />
+      <node id="iMohammed3li" label="iMohammed3li" />
+      <node id="zorrivel" label="zorrivel" />
+      <node id="FHACKdotCOM" label="FHACKdotCOM" />
+      <node id="android_thing" label="android_thing" />
+      <node id="Coin_Word" label="Coin_Word" />
+      <node id="jacominicarnes" label="jacominicarnes" />
+      <node id="_Data_Science_" label="_Data_Science_" />
+      <node id="goettl" label="goettl" />
+      <node id="kirstie_j" label="kirstie_j" />
+      <node id="filjobs495" label="filjobs495" />
+      <node id="thetaoofken" label="thetaoofken" />
+      <node id="vijesh" label="vijesh" />
+      <node id="planetbitco" label="planetbitco" />
+      <node id="jamesjara" label="jamesjara" />
+      <node id="msocias" label="msocias" />
+      <node id="ga_richardson" label="ga_richardson" />
+      <node id="AlmirMustafic" label="AlmirMustafic" />
+      <node id="doyousketch2" label="doyousketch2" />
+      <node id="ursusinc" label="ursusinc" />
+      <node id="patrickhausmann" label="patrickhausmann" />
+      <node id="torikavi" label="torikavi" />
+      <node id="MikhailBoswell" label="MikhailBoswell" />
+      <node id="emsignlimitless" label="emsignlimitless" />
+      <node id="AwesumSawz" label="AwesumSawz" />
+      <node id="rossfeller" label="rossfeller" />
+      <node id="SimpleCryptoNew" label="SimpleCryptoNew" />
+      <node id="AnthonyGuihur" label="AnthonyGuihur" />
+      <node id="Vitalis3d" label="Vitalis3d" />
+      <node id="HunterPriniski" label="HunterPriniski" />
+      <node id="Fikiy8" label="Fikiy8" />
+      <node id="fragillimus" label="fragillimus" />
+      <node id="juancommander" label="juancommander" />
+      <node id="tommi_23" label="tommi_23" />
+      <node id="MsPhelps" label="MsPhelps" />
+      <node id="23vibes" label="23vibes" />
+      <node id="Ritzytechnology" label="Ritzytechnology" />
+      <node id="chartgerink" label="chartgerink" />
+      <node id="sadj_ous" label="sadj_ous" />
+      <node id="AntonMusica" label="AntonMusica" />
+      <node id="revalismith" label="revalismith" />
+      <node id="alexeul17" label="alexeul17" />
+      <node id="cours_egg" label="cours_egg" />
+      <node id="pakoy3k" label="pakoy3k" />
+      <node id="AyoAlfonso" label="AyoAlfonso" />
+      <node id="Shuupcom" label="Shuupcom" />
+      <node id="symfonycol" label="symfonycol" />
+      <node id="Ronald_vanLoon" label="Ronald_vanLoon" />
+      <node id="DidiMohd" label="DidiMohd" />
+      <node id="IQPricing" label="IQPricing" />
+      <node id="Cryptohelp_xyz" label="Cryptohelp_xyz" />
+      <node id="s0m" label="s0m" />
+      <node id="MoedasMundiais" label="MoedasMundiais" />
+      <node id="Mohaiman16" label="Mohaiman16" />
+      <node id="Vindyne8" label="Vindyne8" />
+      <node id="WhelihanCarole" label="WhelihanCarole" />
+      <node id="GLaraLopez" label="GLaraLopez" />
+      <node id="lovelsblind_" label="lovelsblind_" />
+      <node id="NathanTippy" label="NathanTippy" />
+      <node id="elfatmibelabbas" label="elfatmibelabbas" />
+      <node id="bL4nkcode01" label="bL4nkcode01" />
+      <node id="OA_Button" label="OA_Button" />
+      <node id="Faruxu" label="Faruxu" />
+      <node id="pablohn6" label="pablohn6" />
+      <node id="salvadorpano" label="salvadorpano" />
+      <node id="NESSION2" label="NESSION2" />
+      <node id="OyeBenny" label="OyeBenny" />
+      <node id="nsahooct" label="nsahooct" />
+      <node id="DenisOMeally" label="DenisOMeally" />
+      <node id="YukonCurler" label="YukonCurler" />
+      <node id="jaredforsyth" label="jaredforsyth" />
+      <node id="netmanchris" label="netmanchris" />
+      <node id="datagz" label="datagz" />
+      <node id="VerbatLtd" label="VerbatLtd" />
+      <node id="LedesmaNando" label="LedesmaNando" />
+      <node id="joeahand" label="joeahand" />
+      <node id="Samailaleeman" label="Samailaleeman" />
+      <node id="JuliaGustavsen" label="JuliaGustavsen" />
+      <node id="BrianRa20651646" label="BrianRa20651646" />
+      <node id="LesGuessing" label="LesGuessing" />
+      <node id="hugozap" label="hugozap" />
+      <node id="sohail_here" label="sohail_here" />
+      <node id="garetmckinley" label="garetmckinley" />
+      <node id="philipsahli" label="philipsahli" />
+      <node id="dev_dashboard" label="dev_dashboard" />
+      <node id="_KimSloan" label="_KimSloan" />
+      <node id="JennyBryan" label="JennyBryan" />
+      <node id="memming" label="memming" />
+      <node id="Polycrypto" label="Polycrypto" />
+      <node id="mhliew" label="mhliew" />
+      <node id="fen4i4" label="fen4i4" />
+      <node id="Ljulyeth" label="Ljulyeth" />
+      <node id="lucky_hamster" label="lucky_hamster" />
+      <node id="caxep" label="caxep" />
+      <node id="Doug_Laney" label="Doug_Laney" />
+      <node id="demmie4me" label="demmie4me" />
+      <node id="marissatiel" label="marissatiel" />
+      <node id="RaisonanceNews" label="RaisonanceNews" />
+      <node id="iwvphpmzU3w6EsW" label="iwvphpmzU3w6EsW" />
+      <node id="linagora" label="linagora" />
+      <node id="007Hamoud" label="007Hamoud" />
+      <node id="budloska" label="budloska" />
+      <node id="sethdvincent" label="sethdvincent" />
+      <node id="GrantDenkinson" label="GrantDenkinson" />
+      <node id="geyslern" label="geyslern" />
+      <node id="DataBeersMLG" label="DataBeersMLG" />
+      <node id="burckhap" label="burckhap" />
+      <node id="jerpli" label="jerpli" />
+      <node id="netbek" label="netbek" />
+      <node id="KruglovaKate" label="KruglovaKate" />
+      <node id="nafhha" label="nafhha" />
+      <node id="JFoss117" label="JFoss117" />
+      <node id="RTCallahan" label="RTCallahan" />
+      <node id="arthurostapenko" label="arthurostapenko" />
+      <node id="_jmcf" label="_jmcf" />
+      <node id="Charlie_Cawood" label="Charlie_Cawood" />
+      <node id="IsabellaGollini" label="IsabellaGollini" />
+      <node id="turavince" label="turavince" />
+      <node id="phkaznowski" label="phkaznowski" />
+      <node id="BlockchainAge" label="BlockchainAge" />
+      <node id="JaminBenB" label="JaminBenB" />
+      <node id="jaromil" label="jaromil" />
+      <node id="DinoRudniski" label="DinoRudniski" />
+      <node id="InetUnlimited" label="InetUnlimited" />
+      <node id="Penguin2600" label="Penguin2600" />
+      <node id="iamspricey" label="iamspricey" />
+      <node id="GeemanYip" label="GeemanYip" />
+      <node id="redaready" label="redaready" />
+      <node id="girish946" label="girish946" />
+      <node id="NamurReyes" label="NamurReyes" />
+      <node id="henrymbuguak" label="henrymbuguak" />
+      <node id="tapmarques" label="tapmarques" />
+      <node id="MardwinF" label="MardwinF" />
+      <node id="codedesignwire" label="codedesignwire" />
+      <node id="ausdyk" label="ausdyk" />
+      <node id="BoozyBrain" label="BoozyBrain" />
+      <node id="CarlForrest" label="CarlForrest" />
+      <node id="oxenfree89" label="oxenfree89" />
+      <node id="critblue" label="critblue" />
+      <node id="Lord_Alveric" label="Lord_Alveric" />
+      <node id="Apprenda" label="Apprenda" />
+      <node id="OaklandSam" label="OaklandSam" />
+      <node id="WebSavi" label="WebSavi" />
+      <node id="Isaac_M_Jordan" label="Isaac_M_Jordan" />
+      <node id="keybits" label="keybits" />
+      <node id="Merz" label="Merz" />
+      <node id="fedeadolfi" label="fedeadolfi" />
+      <node id="walterra" label="walterra" />
+      <node id="atreya_puru" label="atreya_puru" />
+      <node id="redditprogtop" label="redditprogtop" />
+      <node id="redmer" label="redmer" />
+      <node id="mahidhh" label="mahidhh" />
+      <node id="eojmf" label="eojmf" />
+      <node id="FXS_Finance_SE" label="FXS_Finance_SE" />
+      <node id="DownsEarl" label="DownsEarl" />
+      <node id="edwardbenson" label="edwardbenson" />
+      <node id="KuduKir" label="KuduKir" />
+      <node id="Peredvigin7" label="Peredvigin7" />
+      <node id="bitcoinagile" label="bitcoinagile" />
+      <node id="Pompeee" label="Pompeee" />
+      <node id="CryptoBismuth" label="CryptoBismuth" />
+      <node id="pix" label="pix" />
+      <node id="m1guelpf" label="m1guelpf" />
+      <node id="edbotinschools" label="edbotinschools" />
+      <node id="medunes" label="medunes" />
+      <node id="IFB_Bioinfo" label="IFB_Bioinfo" />
+      <node id="dominusvobiscu6" label="dominusvobiscu6" />
+      <node id="biologeek" label="biologeek" />
+      <node id="YukonMay" label="YukonMay" />
+      <node id="landofcrypto" label="landofcrypto" />
+      <node id="robinst" label="robinst" />
+      <node id="Informed_AI" label="Informed_AI" />
+      <node id="BitcoinAtas" label="BitcoinAtas" />
+      <node id="sainaresh81" label="sainaresh81" />
+      <node id="Koondal1" label="Koondal1" />
+      <node id="loxadim" label="loxadim" />
+      <node id="epistemographer" label="epistemographer" />
+      <node id="tightheadyt" label="tightheadyt" />
+      <node id="jamesleejnr" label="jamesleejnr" />
+      <node id="MihailJonson" label="MihailJonson" />
+      <node id="MukolweKe" label="MukolweKe" />
+      <node id="rakesh_2311" label="rakesh_2311" />
+      <node id="RobinsonBrain" label="RobinsonBrain" />
+      <node id="AntwannLetoCano" label="AntwannLetoCano" />
+      <node id="mathewe" label="mathewe" />
+      <node id="SophiaViklund" label="SophiaViklund" />
+      <node id="ModernMsp" label="ModernMsp" />
+      <node id="dginev" label="dginev" />
+      <node id="errahul289" label="errahul289" />
+      <node id="TheTechRegular" label="TheTechRegular" />
+      <node id="pmcarlton" label="pmcarlton" />
+      <node id="MindJuiceMedia" label="MindJuiceMedia" />
+      <node id="Raufashraf9" label="Raufashraf9" />
+      <node id="ReidLeBlancCBC" label="ReidLeBlancCBC" />
+      <node id="SkazarNM" label="SkazarNM" />
+      <node id="DeepLearn007" label="DeepLearn007" />
+      <node id="SvetlanaSs55" label="SvetlanaSs55" />
+      <node id="tmj_atl_jobs" label="tmj_atl_jobs" />
+      <node id="jhollist" label="jhollist" />
+      <node id="brianflannery" label="brianflannery" />
+      <node id="crypto_alerter" label="crypto_alerter" />
+      <node id="sindustries" label="sindustries" />
+      <node id="monochromeUK" label="monochromeUK" />
+      <node id="dasaptaerwin" label="dasaptaerwin" />
+      <node id="ProgramadorRook" label="ProgramadorRook" />
+      <node id="TechSoftEU" label="TechSoftEU" />
+      <node id="realdeerf" label="realdeerf" />
+      <node id="mnitabach" label="mnitabach" />
+      <node id="webmastersguard" label="webmastersguard" />
+      <node id="HelenMannCBC" label="HelenMannCBC" />
+      <node id="aborruso" label="aborruso" />
+      <node id="OkanaganWriting" label="OkanaganWriting" />
+      <node id="Knight_Demons" label="Knight_Demons" />
+      <node id="altlighthouse" label="altlighthouse" />
+      <node id="binh_vu54321" label="binh_vu54321" />
+      <node id="manuel_velez" label="manuel_velez" />
+      <node id="Michael_Kud" label="Michael_Kud" />
+      <node id="RyaAlis" label="RyaAlis" />
+      <node id="AJAlgmin" label="AJAlgmin" />
+      <node id="sakuasia" label="sakuasia" />
+      <node id="ffhex" label="ffhex" />
+      <node id="pseemakurthi" label="pseemakurthi" />
+      <node id="viralnews91" label="viralnews91" />
+      <node id="RappersIQ" label="RappersIQ" />
+      <node id="HTERCUMANP" label="HTERCUMANP" />
+      <node id="echo_ukraine" label="echo_ukraine" />
+      <node id="dalesimpson" label="dalesimpson" />
+      <node id="AdamSmitht1" label="AdamSmitht1" />
+      <node id="BootstrapOcean" label="BootstrapOcean" />
+      <node id="kennethmac2000" label="kennethmac2000" />
+      <node id="lindamallory85" label="lindamallory85" />
+      <node id="CodeForTampaBay" label="CodeForTampaBay" />
+      <node id="Aegiscanada" label="Aegiscanada" />
+      <node id="Code_Once" label="Code_Once" />
+      <node id="devpoga" label="devpoga" />
+      <node id="gpereyrairujo" label="gpereyrairujo" />
+      <node id="urduecksalesguy" label="urduecksalesguy" />
+      <node id="roadcrypto" label="roadcrypto" />
+      <node id="CryptocoinAPI" label="CryptocoinAPI" />
+      <node id="brunomelo" label="brunomelo" />
+      <node id="course_hour" label="course_hour" />
+      <node id="mlapido" label="mlapido" />
+      <node id="khfarooq" label="khfarooq" />
+      <node id="Boostnoteapp" label="Boostnoteapp" />
+      <node id="alexandremosil" label="alexandremosil" />
+      <node id="inigoalonso" label="inigoalonso" />
+      <node id="arichduvet" label="arichduvet" />
+      <node id="waynemaurer" label="waynemaurer" />
+      <node id="peresvet3000" label="peresvet3000" />
+      <node id="DD_FaFa_" label="DD_FaFa_" />
+      <node id="juretriglav" label="juretriglav" />
+      <node id="RohitTRao14" label="RohitTRao14" />
+      <node id="bizsto100" label="bizsto100" />
+      <node id="pybot3" label="pybot3" />
+      <node id="SpacePirate_io" label="SpacePirate_io" />
+      <node id="BITCOIN_tukinen" label="BITCOIN_tukinen" />
+      <node id="vidriloco" label="vidriloco" />
+      <node id="DevHighlights" label="DevHighlights" />
+      <node id="apireport" label="apireport" />
+      <node id="psd2ohtml" label="psd2ohtml" />
+      <node id="cliffbaldridge" label="cliffbaldridge" />
+      <node id="Olaru_MP" label="Olaru_MP" />
+      <node id="TechAndCheese" label="TechAndCheese" />
+      <node id="LewisLab" label="LewisLab" />
+      <node id="dannyhynes7" label="dannyhynes7" />
+      <node id="nine_oh" label="nine_oh" />
+      <node id="italiaanseovens" label="italiaanseovens" />
+      <node id="AmiRojkes" label="AmiRojkes" />
+      <node id="npscience" label="npscience" />
+      <node id="biocores_" label="biocores_" />
+      <node id="barbariankb" label="barbariankb" />
+      <node id="harleytt" label="harleytt" />
+      <node id="EspersCoin" label="EspersCoin" />
+      <node id="iamchrisuzoh" label="iamchrisuzoh" />
+      <node id="RobBriersNapier" label="RobBriersNapier" />
+      <node id="Beezel_Bug" label="Beezel_Bug" />
+      <node id="ShaoxingRuef" label="ShaoxingRuef" />
+      <node id="NewsRua" label="NewsRua" />
+      <node id="DanielFritzEU" label="DanielFritzEU" />
+      <node id="BlakeEmily" label="BlakeEmily" />
+      <node id="jessica_microbe" label="jessica_microbe" />
+      <node id="skepticmarkus1" label="skepticmarkus1" />
+      <node id="CBCMorningLive" label="CBCMorningLive" />
+      <node id="MNTF" label="MNTF" />
+      <node id="EricPucho" label="EricPucho" />
+      <node id="jeremy_data" label="jeremy_data" />
+      <node id="yanoak" label="yanoak" />
+      <node id="614ckc0ke" label="614ckc0ke" />
+      <node id="JohnSnowLabs" label="JohnSnowLabs" />
+      <node id="GcelloPi" label="GcelloPi" />
+      <node id="TheSlayNetwork_" label="TheSlayNetwork_" />
+      <node id="pavlov_eugene" label="pavlov_eugene" />
+      <node id="macagua" label="macagua" />
+      <node id="RubyLibHunt" label="RubyLibHunt" />
+      <node id="Argentus" label="Argentus" />
+      <node id="Mack1003131Mack" label="Mack1003131Mack" />
+      <node id="sar3ch" label="sar3ch" />
+      <node id="CALLR" label="CALLR" />
+      <node id="OBDhandbags" label="OBDhandbags" />
+      <node id="SeleneVakharia" label="SeleneVakharia" />
+      <node id="allemossilva" label="allemossilva" />
+      <node id="tarakc02" label="tarakc02" />
+      <node id="remotepython" label="remotepython" />
+      <node id="MPCifuentes" label="MPCifuentes" />
+      <node id="Eclitech_RCP" label="Eclitech_RCP" />
+      <node id="kapsystem" label="kapsystem" />
+      <node id="sharifmv" label="sharifmv" />
+      <node id="Splash_Campbell" label="Splash_Campbell" />
+      <node id="ParkerBrand" label="ParkerBrand" />
+      <node id="elseif_net" label="elseif_net" />
+      <node id="perecerda" label="perecerda" />
+      <node id="saviaga" label="saviaga" />
+      <node id="BitcoinMarley" label="BitcoinMarley" />
+      <node id="Colombina_2" label="Colombina_2" />
+      <node id="kumavis_" label="kumavis_" />
+      <node id="ciro" label="ciro" />
+      <node id="Python_Dev_12" label="Python_Dev_12" />
+      <node id="RavitejaMandiga" label="RavitejaMandiga" />
+      <node id="SentinelAgent" label="SentinelAgent" />
+      <node id="arvestad" label="arvestad" />
+      <node id="tmanning" label="tmanning" />
+      <node id="aamirjv" label="aamirjv" />
+      <node id="j2112o" label="j2112o" />
+      <node id="TunstallAsc" label="TunstallAsc" />
+      <node id="slryit" label="slryit" />
+      <node id="omgbtc" label="omgbtc" />
+      <node id="maphewyk" label="maphewyk" />
+      <node id="t_higa" label="t_higa" />
+      <node id="mattdotvaughn" label="mattdotvaughn" />
+      <node id="RogerBeaupoil" label="RogerBeaupoil" />
+      <node id="gregmore" label="gregmore" />
+      <node id="mne_news" label="mne_news" />
+      <node id="gerrys_music" label="gerrys_music" />
+      <node id="UtJA11" label="UtJA11" />
+      <node id="HBhalani4" label="HBhalani4" />
+      <node id="chatasweetie" label="chatasweetie" />
+      <node id="parshap" label="parshap" />
+      <node id="ICQCOIN" label="ICQCOIN" />
+      <node id="TechBuzzInMedia" label="TechBuzzInMedia" />
+      <node id="10NewsHunt" label="10NewsHunt" />
+      <node id="stencila" label="stencila" />
+      <node id="jimakker" label="jimakker" />
+      <node id="sburer" label="sburer" />
+      <node id="Annisan_007" label="Annisan_007" />
+      <node id="oldminer78" label="oldminer78" />
+      <node id="NewSiSNew" label="NewSiSNew" />
+      <node id="ammosher" label="ammosher" />
+      <node id="knowwhereyouare" label="knowwhereyouare" />
+      <node id="wyatt_tremblay" label="wyatt_tremblay" />
+      <node id="carlystrasser" label="carlystrasser" />
+      <node id="LogicScience" label="LogicScience" />
+      <node id="ToyStoreDeal" label="ToyStoreDeal" />
+      <node id="HamdanAzhar" label="HamdanAzhar" />
+      <node id="kharchivka" label="kharchivka" />
+      <node id="MrP_helps" label="MrP_helps" />
+      <node id="AZushel" label="AZushel" />
+      <node id="fpinfosec" label="fpinfosec" />
+      <node id="rauf_khalid" label="rauf_khalid" />
+      <node id="sohom_gain" label="sohom_gain" />
+      <node id="Khalid_roushdy" label="Khalid_roushdy" />
+      <node id="alex__morley" label="alex__morley" />
+      <node id="CBCPhoto" label="CBCPhoto" />
+      <node id="nosahama" label="nosahama" />
+      <node id="kpsivagnanam" label="kpsivagnanam" />
+      <node id="johnkitchin" label="johnkitchin" />
+      <node id="smmmanru" label="smmmanru" />
+      <node id="VaulsteinR" label="VaulsteinR" />
+      <node id="_noelove" label="_noelove" />
+      <node id="FUNRADIO929NEWS" label="FUNRADIO929NEWS" />
+      <node id="leinyuy_videc" label="leinyuy_videc" />
+      <node id="24warez" label="24warez" />
+      <node id="matpatc" label="matpatc" />
+      <node id="Syenta1" label="Syenta1" />
+      <node id="John_Macintosh" label="John_Macintosh" />
+      <node id="BitcoinAnd" label="BitcoinAnd" />
+      <node id="ben_dantzer" label="ben_dantzer" />
+      <node id="mobile_apps99" label="mobile_apps99" />
+      <node id="contentcinch" label="contentcinch" />
+      <node id="txambe" label="txambe" />
+      <node id="hatschito" label="hatschito" />
+      <node id="forksearsher" label="forksearsher" />
+      <node id="SerialEnterpDev" label="SerialEnterpDev" />
+      <node id="EliteBitcoin" label="EliteBitcoin" />
+      <node id="johannux" label="johannux" />
+      <node id="openatvt" label="openatvt" />
+      <node id="enginuityeurope" label="enginuityeurope" />
+      <node id="fibonojji" label="fibonojji" />
+      <node id="haraball" label="haraball" />
+      <node id="TimTamashiro" label="TimTamashiro" />
+      <node id="DevOps4lib" label="DevOps4lib" />
+      <node id="pol_ferrando" label="pol_ferrando" />
+      <node id="emilypohlweary" label="emilypohlweary" />
+      <node id="MrDevilAdvocate" label="MrDevilAdvocate" />
+      <node id="dasuma_es" label="dasuma_es" />
+      <node id="giorgosmit" label="giorgosmit" />
+      <node id="cbcdocs" label="cbcdocs" />
+      <node id="G3N3R4L_GAMER" label="G3N3R4L_GAMER" />
+      <node id="paintbywords" label="paintbywords" />
+      <node id="shehyrdin" label="shehyrdin" />
+      <node id="asutoshjg" label="asutoshjg" />
+      <node id="joeyshoop" label="joeyshoop" />
+      <node id="hishaamu" label="hishaamu" />
+      <node id="LorenaABarba" label="LorenaABarba" />
+      <node id="Yukongraham" label="Yukongraham" />
+      <node id="KXaii" label="KXaii" />
+      <node id="Toluolll" label="Toluolll" />
+      <node id="Jillian_LeBlanc" label="Jillian_LeBlanc" />
+      <node id="PowwerShelly" label="PowwerShelly" />
+      <node id="BradyStrachan" label="BradyStrachan" />
+      <node id="schamau" label="schamau" />
+      <node id="CUHLUTSHOGO" label="CUHLUTSHOGO" />
+      <node id="ErinLoxam" label="ErinLoxam" />
+      <node id="BufferBandit" label="BufferBandit" />
+      <node id="manojpandey96" label="manojpandey96" />
+      <node id="ItsecJ" label="ItsecJ" />
+      <node id="glenbeer" label="glenbeer" />
+      <node id="GraveleyLab" label="GraveleyLab" />
+      <node id="HeatherHintze" label="HeatherHintze" />
+      <node id="LouieBernstein" label="LouieBernstein" />
+      <node id="Lamxline" label="Lamxline" />
+      <node id="_mql" label="_mql" />
+      <node id="dsouzamichaelc" label="dsouzamichaelc" />
+      <node id="monotone_off" label="monotone_off" />
+      <node id="aribadernatal" label="aribadernatal" />
+      <node id="maxharlow" label="maxharlow" />
+      <node id="NokomeBentley" label="NokomeBentley" />
+      <node id="homelabit" label="homelabit" />
+      <node id="sacculi" label="sacculi" />
+      <node id="cheburovche" label="cheburovche" />
+      <node id="viennahtml" label="viennahtml" />
+      <node id="carminspalace" label="carminspalace" />
+      <node id="Bit_My_Ass" label="Bit_My_Ass" />
+      <node id="laurencebergin" label="laurencebergin" />
+      <node id="SpeedWapp" label="SpeedWapp" />
+      <node id="ShozF" label="ShozF" />
+      <node id="cristiano68" label="cristiano68" />
+      <node id="TechGeekRebel" label="TechGeekRebel" />
+      <node id="h2002al" label="h2002al" />
+      <node id="AmyOh89" label="AmyOh89" />
+      <node id="codersday" label="codersday" />
+      <node id="permadesign" label="permadesign" />
+      <node id="GalenChris" label="GalenChris" />
+      <node id="NewCoinWord" label="NewCoinWord" />
+      <node id="Shekatsak" label="Shekatsak" />
+      <node id="oscar_castaneda" label="oscar_castaneda" />
+      <node id="bitcoinislife" label="bitcoinislife" />
+      <node id="benkant" label="benkant" />
+      <node id="viviennemn" label="viviennemn" />
+      <node id="UrbanLoveUlcer" label="UrbanLoveUlcer" />
+      <node id="alegonbel" label="alegonbel" />
+      <node id="hjalli" label="hjalli" />
+      <node id="SergeyKochergan" label="SergeyKochergan" />
+      <node id="Knarfkcaon" label="Knarfkcaon" />
+      <node id="_seraph1" label="_seraph1" />
+      <node id="randal_olson" label="randal_olson" />
+      <node id="BigDataMOOC" label="BigDataMOOC" />
+      <node id="BrendaB56441595" label="BrendaB56441595" />
+      <node id="yeatheysaidit" label="yeatheysaidit" />
+      <node id="Hack_Algorithm" label="Hack_Algorithm" />
+      <node id="monsterbashseq" label="monsterbashseq" />
+      <node id="sgruenwald" label="sgruenwald" />
+      <node id="ajmuk" label="ajmuk" />
+      <node id="AnnDooseTO" label="AnnDooseTO" />
+      <node id="elthenerd" label="elthenerd" />
+      <node id="facetimeJS" label="facetimeJS" />
+      <node id="see_linux" label="see_linux" />
+      <node id="alryadieh" label="alryadieh" />
+      <node id="syafiza" label="syafiza" />
+      <node id="Jane_yubo" label="Jane_yubo" />
+      <node id="Kamayulka78" label="Kamayulka78" />
+      <node id="jclopeztavera" label="jclopeztavera" />
+      <node id="naupakaz" label="naupakaz" />
+      <node id="sellorm" label="sellorm" />
+      <node id="YukonVet" label="YukonVet" />
+      <node id="tdkinser" label="tdkinser" />
+      <node id="sirinath" label="sirinath" />
+      <node id="PrecioBTC" label="PrecioBTC" />
+      <node id="Tone_Dev3" label="Tone_Dev3" />
+      <node id="headcountguru" label="headcountguru" />
+      <node id="Namestream" label="Namestream" />
+      <node id="ODiogoSilva" label="ODiogoSilva" />
+      <node id="sergrovnov69" label="sergrovnov69" />
+      <node id="DahBerger" label="DahBerger" />
+      <node id="rbecheras" label="rbecheras" />
+      <node id="KaseyKlimes" label="KaseyKlimes" />
+      <node id="lilrhodey" label="lilrhodey" />
+      <node id="eduardbulai" label="eduardbulai" />
+      <node id="freedif" label="freedif" />
+      <node id="JustStacked" label="JustStacked" />
+      <node id="JustOpenSourced" label="JustOpenSourced" />
+      <node id="ChrisPainter84" label="ChrisPainter84" />
+      <node id="eLifeInnovation" label="eLifeInnovation" />
+      <node id="ceelogre" label="ceelogre" />
+      <node id="EdEDock" label="EdEDock" />
+      <node id="projectionist" label="projectionist" />
+      <node id="DevilleSy" label="DevilleSy" />
+      <node id="palashv2" label="palashv2" />
+      <node id="bjoerngoerke" label="bjoerngoerke" />
+      <node id="Createdbycode" label="Createdbycode" />
+    </nodes>
+    <edges>
+      <edge id="0" source="HBhalani4" target="AdamSmitht1" weight="6.0120000000000005" />
+      <edge id="1" source="tommi_23" target="triat1252" weight="70.599" />
+      <edge id="2" source="PrecioBTC" target="triat1252" weight="379.867" />
+      <edge id="3" source="MsPhelps" target="stencila" weight="86.19900000000001" />
+      <edge id="4" source="23vibes" target="MaymeBerry2" weight="1203.316" />
+      <edge id="5" source="benkant" target="stencila" weight="5.6000000000000005" />
+      <edge id="6" source="chatasweetie" target="pythonbot_" weight="13.464999999999998" />
+      <edge id="7" source="epistemographer" target="stencila" weight="140.28900000000002" />
+      <edge id="8" source="__lucas" target="stencila" weight="26.333" />
+      <edge id="9" source="Ritzytechnology" target="datagz" weight="768.644" />
+      <edge id="10" source="parshap" target="stencila" weight="11.264000000000001" />
+      <edge id="11" source="tightheadyt" target="ElynJonesCBC" weight="3.765" />
+      <edge id="12" source="jamesleejnr" target="JustOpenSourced" weight="43.900000000000006" />
+      <edge id="13" source="HTERCUMANP" target="alryadieh" weight="57.1" />
+      <edge id="14" source="yand2008" target="triat1252" weight="641.498" />
+      <edge id="15" source="ICQCOIN" target="triat1252" weight="22.446" />
+      <edge id="16" source="MukolweKe" target="pythonbot_" weight="212.548" />
+      <edge id="17" source="TechBuzzInMedia" target="AdamSmitht1" weight="57.428" />
+      <edge id="18" source="rakesh_2311" target="AdamSmitht1" weight="4.183" />
+      <edge id="19" source="sacculi" target="stencila" weight="87.65" />
+      <edge id="20" source="chartgerink" target="stencila" weight="41.800000000000004" />
+      <edge id="21" source="juretriglav" target="stencila" weight="41.368" />
+      <edge id="22" source="Kamayulka78" target="triat1252" weight="157.919" />
+      <edge id="23" source="10NewsHunt" target="MrDevilAdvocate" weight="822.7" />
+      <edge id="24" source="RobinsonBrain" target="mnitabach" weight="10.132" />
+      <edge id="25" source="AntwannLetoCano" target="JFoss117" weight="3.9000000000000004" />
+      <edge id="26" source="mathewe" target="stencila" weight="40.94800000000001" />
+      <edge id="27" source="sadj_ous" target="AdamSmitht1" weight="3.25" />
+      <edge id="28" source="Khalid_roushdy" target="AdamSmitht1" weight="4.898" />
+      <edge id="29" source="budloska" target="triat1252" weight="145.369" />
+      <edge id="30" source="ChrisPainter84" target="AdamSmitht1" weight="40.998000000000005" />
+      <edge id="31" source="jimakker" target="stencila" weight="14.933000000000002" />
+      <edge id="32" source="JStuhlman" target="triat1252" weight="395.442" />
+      <edge id="33" source="sburer" target="stencila" weight="19.629" />
+      <edge id="34" source="SophiaViklund" target="datagz" weight="6994.082000000001" />
+      <edge id="35" source="ModernMsp" target="AdamSmitht1" weight="229.893" />
+      <edge id="36" source="GrantDenkinson" target="stencila" weight="79.165" />
+      <edge id="37" source="oldminer78" target="triat1252" weight="429.78700000000003" />
+      <edge id="38" source="sharifmv" target="nafhha" weight="200.09900000000002" />
+      <edge id="39" source="revalismith" target="ElynJonesCBC" weight="45.800000000000004" />
+      <edge id="40" source="kara_d" target="JustOpenSourced" weight="210.56500000000003" />
+      <edge id="41" source="alexeul17" target="pythonbot_" weight="220.25900000000001" />
+      <edge id="42" source="NewSiSNew" target="triat1252" weight="101.71900000000001" />
+      <edge id="43" source="CBCPhoto" target="ElynJonesCBC" weight="140.05" />
+      <edge id="44" source="SerialEnterpDev" target="AdamSmitht1" weight="8.898000000000001" />
+      <edge id="45" source="cours_egg" target="AdamSmitht1" weight="6.187" />
+      <edge id="46" source="pakoy3k" target="pythonbot_" weight="23.616" />
+      <edge id="47" source="jesienlinuksowa" target="JustOpenSourced" weight="4.265" />
+      <edge id="48" source="scott_fay" target="stencila" weight="5.634" />
+      <edge id="49" source="pmcarlton" target="mnitabach" weight="12.813" />
+      <edge id="50" source="filjobs495" target="triat1252" weight="54.797000000000004" />
+      <edge id="51" source="cloudaus" target="stencila" weight="47.18" />
+      <edge id="52" source="MindJuiceMedia" target="stencila" weight="47.300000000000004" />
+      <edge id="53" source="knowwhereyouare" target="ElynJonesCBC" weight="99.60000000000001" />
+      <edge id="54" source="wyatt_tremblay" target="ElynJonesCBC" weight="6.1000000000000005" />
+      <edge id="55" source="Raufashraf9" target="triat1252" weight="30.950000000000003" />
+      <edge id="56" source="Shuupcom" target="AdamSmitht1" weight="114.899" />
+      <edge id="57" source="manojpandey96" target="ciro" weight="12.716999999999999" />
+      <edge id="58" source="ReidLeBlancCBC" target="ElynJonesCBC" weight="90.355" />
+      <edge id="59" source="SkazarNM" target="triat1252" weight="179.419" />
+      <edge id="60" source="plotlygraphs" target="stencila" weight="2853.884" />
+      <edge id="61" source="DeepLearn007" target="triat1252" weight="1676.2490000000003" />
+      <edge id="62" source="carlystrasser" target="stencila" weight="147.029" />
+      <edge id="63" source="Ronald_vanLoon" target="errahul289" weight="4229.109" />
+      <edge id="64" source="LogicScience" target="AdamSmitht1" weight="25.013" />
+      <edge id="65" source="SvetlanaSs55" target="triat1252" weight="240.414" />
+      <edge id="66" source="ToyStoreDeal" target="triat1252" weight="5964.499" />
+      <edge id="67" source="HamdanAzhar" target="ciro" weight="82.45100000000001" />
+      <edge id="68" source="technicoder" target="AdamSmitht1" weight="68.784" />
+      <edge id="69" source="Mohaiman16" target="pythonbot_" weight="3.551" />
+      <edge id="70" source="_mql" target="stencila" weight="49.400000000000006" />
+      <edge id="71" source="Annisan_007" target="AdamSmitht1" weight="4.793" />
+      <edge id="72" source="MrP_helps" target="stencila" weight="51.06100000000001" />
+      <edge id="73" source="ComSci2016x" target="oxenfree89" weight="43.159" />
+      <edge id="74" source="defiler" target="stencila" weight="51.399" />
+      <edge id="75" source="jeremy_data" target="stencila" weight="1.783" />
+      <edge id="76" source="MihailJonson" target="triat1252" weight="122.26300000000002" />
+      <edge id="77" source="chinta" target="stencila" weight="12.698" />
+      <edge id="78" source="jhollist" target="stencila" weight="44.445" />
+      <edge id="79" source="enginuityeurope" target="AdamSmitht1" weight="18.966" />
+      <edge id="80" source="Neurosarda" target="stencila" weight="15.230000000000002" />
+      <edge id="81" source="ErvinLemark" target="triat1252" weight="13.600000000000001" />
+      <edge id="82" source="TableauBot" target="triat1252" weight="135.98" />
+      <edge id="83" source="IQPricing" target="AdamSmitht1" weight="1178.2540000000001" />
+      <edge id="84" source="rauf_khalid" target="mnitabach" weight="86.525" />
+      <edge id="85" source="brianflannery" target="JustOpenSourced" weight="70.866" />
+      <edge id="86" source="sohom_gain" target="alryadieh" weight="11.631" />
+      <edge id="87" source="s_j_newhouse" target="JustOpenSourced" weight="69.245" />
+      <edge id="88" source="SutantoEliza" target="MaymeBerry2" weight="40.764" />
+      <edge id="89" source="yanoak" target="stencila" weight="105.30000000000001" />
+      <edge id="90" source="crypto_alerter" target="triat1252" weight="64.94800000000001" />
+      <edge id="91" source="CodeForTampaBay" target="JustOpenSourced" weight="23.232" />
+      <edge id="92" source="SachaTB" target="AdamSmitht1" weight="80.48200000000001" />
+      <edge id="93" source="sgruenwald" target="pythonbot_" weight="1054.949" />
+      <edge id="94" source="sindustries" target="AdamSmitht1" weight="50.834" />
+      <edge id="95" source="BITCOIN_tukinen" target="triat1252" weight="133.982" />
+      <edge id="96" source="kumavis_" target="JustOpenSourced" weight="59.412000000000006" />
+      <edge id="97" source="alex__morley" target="stencila" weight="19.246" />
+      <edge id="98" source="s0m" target="oxenfree89" weight="40.283" />
+      <edge id="99" source="s0m" target="pythonbot_" weight="40.283" />
+      <edge id="100" source="ammosher" target="ElynJonesCBC" weight="45.550000000000004" />
+      <edge id="101" source="MoedasMundiais" target="triat1252" weight="42.669000000000004" />
+      <edge id="102" source="kharchivka" target="triat1252" weight="294.969" />
+      <edge id="103" source="Vindyne8" target="triat1252" weight="748.865" />
+      <edge id="104" source="RarePepeParty" target="triat1252" weight="19.498" />
+      <edge id="105" source="monochromeUK" target="ElynJonesCBC" weight="67.65" />
+      <edge id="106" source="dasaptaerwin" target="stencila" weight="43.53" />
+      <edge id="107" source="TechAndCheese" target="AdamSmitht1" weight="0.55" />
+      <edge id="108" source="kpsivagnanam" target="JustOpenSourced" weight="10.383000000000001" />
+      <edge id="109" source="johnkitchin" target="stencila" weight="38.300000000000004" />
+      <edge id="110" source="smmmanru" target="triat1252" weight="966.0500000000001" />
+      <edge id="111" source="DevHighlights" target="oxenfree89" weight="41.063" />
+      <edge id="112" source="DevHighlights" target="AdamSmitht1" weight="41.063" />
+      <edge id="113" source="ProgramadorRook" target="AdamSmitht1" weight="0.532" />
+      <edge id="114" source="TechSoftEU" target="AdamSmitht1" weight="193.883" />
+      <edge id="115" source="realdeerf" target="homelabit" weight="6.392" />
+      <edge id="116" source="jonathandinu" target="ciro" weight="57.75900000000001" />
+      <edge id="117" source="vxroot" target="oxenfree89" weight="57.760000000000005" />
+      <edge id="118" source="palashv2" target="AdamSmitht1" weight="58.478" />
+      <edge id="119" source="headcountguru" target="AdamSmitht1" weight="159.333" />
+      <edge id="120" source="webmastersguard" target="AdamSmitht1" weight="18.635" />
+      <edge id="121" source="KruglovaKate" target="triat1252" weight="12.633000000000001" />
+      <edge id="122" source="HelenMannCBC" target="ElynJonesCBC" weight="68.767" />
+      <edge id="123" source="projectionist" target="nafhha" weight="150.167" />
+      <edge id="124" source="WhelihanCarole" target="ElynJonesCBC" weight="18.382" />
+      <edge id="125" source="aborruso" target="stencila" weight="94.46100000000001" />
+      <edge id="126" source="GLaraLopez" target="triat1252" weight="60578.251000000004" />
+      <edge id="127" source="zuhayer_work" target="AdamSmitht1" weight="1.197" />
+      <edge id="128" source="VaulsteinR" target="AdamSmitht1" weight="31.139" />
+      <edge id="129" source="apireport" target="JustOpenSourced" weight="79.68299999999999" />
+      <edge id="130" source="vasiliy_lebedev" target="triat1252" weight="54.36900000000001" />
+      <edge id="131" source="abtran" target="stencila" weight="184.995" />
+      <edge id="132" source="Wmorrow" target="ElynJonesCBC" weight="12.950000000000001" />
+      <edge id="133" source="lovelsblind_" target="triat1252" weight="2706.552" />
+      <edge id="134" source="DisruptTeknics" target="triat1252" weight="109.11400000000002" />
+      <edge id="135" source="OkanaganWriting" target="ElynJonesCBC" weight="216.60000000000002" />
+      <edge id="136" source="leinyuy_videc" target="pythonbot_" weight="2.231" />
+      <edge id="137" source="elfatmibelabbas" target="triat1252" weight="4109.1" />
+      <edge id="138" source="Knight_Demons" target="_noelove" weight="60.95" />
+      <edge id="139" source="bL4nkcode01" target="triat1252" weight="164.58100000000002" />
+      <edge id="140" source="altlighthouse" target="triat1252" weight="105.30000000000001" />
+      <edge id="141" source="binh_vu54321" target="AdamSmitht1" weight="1.661" />
+      <edge id="142" source="YAMER5" target="triat1252" weight="2030.3500000000001" />
+      <edge id="143" source="manuel_velez" target="stencila" weight="53.498000000000005" />
+      <edge id="144" source="Michael_Kud" target="triat1252" weight="113.29500000000002" />
+      <edge id="145" source="Faruxu" target="nafhha" weight="31.3" />
+      <edge id="146" source="pablohn6" target="AdamSmitht1" weight="19.163999999999998" />
+      <edge id="147" source="salvadorpano" target="triat1252" weight="2446.4990000000003" />
+      <edge id="148" source="Peredvigin7" target="triat1252" weight="50.150000000000006" />
+      <edge id="149" source="ColinBotten" target="ElynJonesCBC" weight="7.45" />
+      <edge id="150" source="Syenta1" target="stencila" weight="1.5170000000000001" />
+      <edge id="151" source="rthille" target="pythonbot_" weight="4.800000000000001" />
+      <edge id="152" source="NESSION2" target="triat1252" weight="152.119" />
+      <edge id="153" source="OyeBenny" target="pythonbot_" weight="1173.0" />
+      <edge id="154" source="freedif" target="AdamSmitht1" weight="2.7170000000000005" />
+      <edge id="155" source="nsahooct" target="errahul289" weight="4.0" />
+      <edge id="156" source="sergrovnov69" target="triat1252" weight="436.63300000000004" />
+      <edge id="157" source="RyaAlis" target="triat1252" weight="394.48800000000006" />
+      <edge id="158" source="HackingTutors" target="homelabit" weight="728.686" />
+      <edge id="159" source="GraveBone" target="nafhha" weight="259.983" />
+      <edge id="160" source="sakuasia" target="MaymeBerry2" weight="37.85" />
+      <edge id="161" source="sjockers" target="stencila" weight="36.308" />
+      <edge id="162" source="ben_dantzer" target="ElynJonesCBC" weight="71.45" />
+      <edge id="163" source="ffhex" target="stencila" weight="2.7830000000000004" />
+      <edge id="164" source="echo_ukraine" target="AdamSmitht1" weight="6.917000000000001" />
+      <edge id="165" source="DenisOMeally" target="stencila" weight="4.5" />
+      <edge id="166" source="NaturallyAlexM" target="ElynJonesCBC" weight="152.717" />
+      <edge id="167" source="DD_Serena_" target="datagz" weight="308.13300000000004" />
+      <edge id="168" source="Nikhilwagle" target="mnitabach" weight="187.84300000000002" />
+      <edge id="169" source="BitPalTrade" target="triat1252" weight="45.44800000000001" />
+      <edge id="170" source="_jmcf" target="pythonbot_" weight="2.1" />
+      <edge id="171" source="mobile_apps99" target="AdamSmitht1" weight="42.7" />
+      <edge id="172" source="ga_richardson" target="ElynJonesCBC" weight="66.06400000000001" />
+      <edge id="173" source="contentcinch" target="AdamSmitht1" weight="26.400000000000002" />
+      <edge id="174" source="txambe" target="homelabit" weight="11.18" />
+      <edge id="175" source="Hack_Algorithm" target="AdamSmitht1" weight="6.046" />
+      <edge id="176" source="hatschito" target="stencila" weight="36.223000000000006" />
+      <edge id="177" source="YukonCurler" target="ElynJonesCBC" weight="8.573" />
+      <edge id="178" source="jaredforsyth" target="stencila" weight="85.347" />
+      <edge id="179" source="nosahama" target="pythonbot_" weight="16.128" />
+      <edge id="180" source="RappersIQ" target="triat1252" weight="8662.466" />
+      <edge id="181" source="forksearsher" target="triat1252" weight="64.46900000000001" />
+      <edge id="182" source="DevOps4lib" target="stencila" weight="28.480000000000004" />
+      <edge id="183" source="netmanchris" target="pythonbot_" weight="103.727" />
+      <edge id="184" source="GraveleyLab" target="mnitabach" weight="97.57000000000001" />
+      <edge id="185" source="EliteBitcoin" target="triat1252" weight="71.55" />
+      <edge id="186" source="jelenaadzic" target="ElynJonesCBC" weight="169.20000000000002" />
+      <edge id="187" source="dalesimpson" target="AdamSmitht1" weight="49.667" />
+      <edge id="188" source="dginev" target="stencila" weight="20.483" />
+      <edge id="189" source="johannux" target="stencila" weight="57.23" />
+      <edge id="190" source="Code_Once" target="oxenfree89" weight="6.25" />
+      <edge id="191" source="LewisLab" target="mnitabach" weight="8.283" />
+      <edge id="192" source="VerbatLtd" target="AdamSmitht1" weight="64.91900000000001" />
+      <edge id="193" source="openatvt" target="stencila" weight="31.933" />
+      <edge id="194" source="BootstrapOcean" target="AdamSmitht1" weight="30.489" />
+      <edge id="195" source="kennethmac2000" target="JustOpenSourced" weight="59.176" />
+      <edge id="196" source="lindamallory85" target="AdamSmitht1" weight="54.7" />
+      <edge id="197" source="fibonojji" target="pythonbot_" weight="20.312" />
+      <edge id="198" source="LedesmaNando" target="JustOpenSourced" weight="8.817" />
+      <edge id="199" source="joeahand" target="stencila" weight="18.477" />
+      <edge id="200" source="haraball" target="stencila" weight="16.957" />
+      <edge id="201" source="Samailaleeman" target="pythonbot_" weight="18.650000000000002" />
+      <edge id="202" source="JuliaGustavsen" target="stencila" weight="30.663" />
+      <edge id="203" source="benmarwick" target="stencila" weight="48.444" />
+      <edge id="204" source="Doug_Laney" target="IFB_Bioinfo" weight="2431.635" />
+      <edge id="205" source="FranFrobleda" target="pythonbot_" weight="4.155" />
+      <edge id="206" source="BrianRa20651646" target="AdamSmitht1" weight="0.5" />
+      <edge id="207" source="TimTamashiro" target="ElynJonesCBC" weight="263.6" />
+      <edge id="208" source="10i10" target="pythonbot_" weight="96.412" />
+      <edge id="209" source="devpoga" target="stencila" weight="32.917" />
+      <edge id="210" source="AlmaxAnalytics" target="JustOpenSourced" weight="90.227" />
+      <edge id="211" source="LesGuessing" target="pythonbot_" weight="13.775" />
+      <edge id="212" source="Terezappcom" target="AdamSmitht1" weight="21.065" />
+      <edge id="213" source="hugozap" target="stencila" weight="18.650000000000002" />
+      <edge id="214" source="inigoalonso" target="stencila" weight="7.65" />
+      <edge id="215" source="Beezel_Bug" target="AdamSmitht1" weight="50.296" />
+      <edge id="216" source="gpereyrairujo" target="stencila" weight="10.508000000000001" />
+      <edge id="217" source="urduecksalesguy" target="triat1252" weight="4587.317" />
+      <edge id="218" source="LouieBernstein" target="AdamSmitht1" weight="3.7" />
+      <edge id="219" source="garetmckinley" target="stencila" weight="164.10000000000002" />
+      <edge id="220" source="philipsahli" target="JustOpenSourced" weight="19.064" />
+      <edge id="221" source="pol_ferrando" target="datagz" weight="11.691" />
+      <edge id="222" source="dev_dashboard" target="oxenfree89" weight="535.5500000000001" />
+      <edge id="223" source="rambujo" target="stencila" weight="10.744" />
+      <edge id="224" source="CryptocoinAPI" target="triat1252" weight="12706.346" />
+      <edge id="225" source="emilypohlweary" target="ElynJonesCBC" weight="123.584" />
+      <edge id="226" source="GKSynerzip" target="AdamSmitht1" weight="14.549000000000001" />
+      <edge id="227" source="BitcoinAnd" target="triat1252" weight="172.163" />
+      <edge id="228" source="spotdesknyc" target="alryadieh" weight="9.8" />
+      <edge id="229" source="_KimSloan" target="ElynJonesCBC" weight="16.85" />
+      <edge id="230" source="course_hour" target="stencila" weight="7.431000000000001" />
+      <edge id="231" source="hjalli" target="stencila" weight="152.084" />
+      <edge id="232" source="dasuma_es" target="triat1252" weight="646.1080000000001" />
+      <edge id="233" source="doyousketch2" target="AdamSmitht1" weight="8.517000000000001" />
+      <edge id="234" source="memming" target="mnitabach" weight="68.731" />
+      <edge id="235" source="The_Chill_Place" target="triat1252" weight="348.45000000000005" />
+      <edge id="236" source="mlapido" target="JustOpenSourced" weight="4.65" />
+      <edge id="237" source="cbcdocs" target="ElynJonesCBC" weight="982.0" />
+      <edge id="238" source="rsNeatPublish" target="AdamSmitht1" weight="145.608" />
+      <edge id="239" source="G3N3R4L_GAMER" target="pythonbot_" weight="17.067" />
+      <edge id="240" source="HistoryOfColor" target="triat1252" weight="2783.494" />
+      <edge id="241" source="paintbywords" target="ElynJonesCBC" weight="6.468000000000001" />
+      <edge id="242" source="Polycrypto" target="triat1252" weight="256.471" />
+      <edge id="243" source="harleytt" target="JustOpenSourced" weight="54.03300000000001" />
+      <edge id="244" source="mhliew" target="AdamSmitht1" weight="5.477" />
+      <edge id="245" source="AntonMusica" target="triat1252" weight="77.754" />
+      <edge id="246" source="WilliamJakesta" target="ElynJonesCBC" weight="3.266" />
+      <edge id="247" source="fen4i4" target="pythonbot_" weight="2.599" />
+      <edge id="248" source="fen4i4" target="AdamSmitht1" weight="2.599" />
+      <edge id="249" source="BigDataMOOC" target="JFoss117" weight="58.93300000000001" />
+      <edge id="250" source="NathanTippy" target="triat1252" weight="3711.7360000000003" />
+      <edge id="251" source="A_Becca88" target="ciro" weight="5.299" />
+      <edge id="252" source="khfarooq" target="datagz" weight="11.75" />
+      <edge id="253" source="italiaanseovens" target="MaymeBerry2" weight="63.516" />
+      <edge id="254" source="joeyshoop" target="pythonbot_" weight="74.066" />
+      <edge id="255" source="hishaamu" target="nafhha" weight="72.35000000000001" />
+      <edge id="256" source="Ljulyeth" target="triat1252" weight="374.85" />
+      <edge id="257" source="Pounds4u2" target="triat1252" weight="2511.1000000000004" />
+      <edge id="258" source="lucky_hamster" target="triat1252" weight="20.212000000000003" />
+      <edge id="259" source="caxep" target="stencila" weight="15.700000000000001" />
+      <edge id="260" source="Harieesss" target="stencila" weight="21.704" />
+      <edge id="261" source="zorrivel" target="stencila" weight="7.451" />
+      <edge id="262" source="aamirjv" target="stencila" weight="17.471" />
+      <edge id="263" source="alexandremosil" target="pythonbot_" weight="40.800000000000004" />
+      <edge id="264" source="brunomelo" target="stencila" weight="49.409000000000006" />
+      <edge id="265" source="LorenaABarba" target="stencila" weight="231.848" />
+      <edge id="266" source="maxharlow" target="stencila" weight="33.384" />
+      <edge id="267" source="demmie4me" target="AdamSmitht1" weight="9.646" />
+      <edge id="268" source="Mack1003131Mack" target="oxenfree89" weight="52.63300000000001" />
+      <edge id="269" source="Mack1003131Mack" target="AdamSmitht1" weight="52.63300000000001" />
+      <edge id="270" source="Mack1003131Mack" target="JustOpenSourced" weight="52.63300000000001" />
+      <edge id="271" source="FertigLab" target="mnitabach" weight="32.746" />
+      <edge id="272" source="marissatiel" target="ElynJonesCBC" weight="15.600000000000001" />
+      <edge id="273" source="101Computing" target="pythonbot_" weight="29.400000000000002" />
+      <edge id="274" source="blahah404" target="stencila" weight="101.50999999999999" />
+      <edge id="275" source="RaisonanceNews" target="AdamSmitht1" weight="13.683000000000002" />
+      <edge id="276" source="KXaii" target="nafhha" weight="113.30000000000001" />
+      <edge id="277" source="Toluolll" target="ciro" weight="7.864000000000001" />
+      <edge id="278" source="oscar_castaneda" target="stencila" weight="8.583" />
+      <edge id="279" source="Jillian_LeBlanc" target="ElynJonesCBC" weight="73.816" />
+      <edge id="280" source="monotone_off" target="stencila" weight="11.278" />
+      <edge id="281" source="peresvet3000" target="triat1252" weight="9.674" />
+      <edge id="282" source="iwvphpmzU3w6EsW" target="triat1252" weight="38.588" />
+      <edge id="283" source="DD_FaFa_" target="LearnRinaDay" weight="989.6990000000001" />
+      <edge id="284" source="edbotinschools" target="oxenfree89" weight="34.25" />
+      <edge id="285" source="sar3ch" target="pythonbot_" weight="63.412000000000006" />
+      <edge id="286" source="linagora" target="IFB_Bioinfo" weight="115.267" />
+      <edge id="287" source="CUHLUTSHOGO" target="triat1252" weight="171.36900000000003" />
+      <edge id="288" source="RubyLibHunt" target="JustOpenSourced" weight="6.4670000000000005" />
+      <edge id="289" source="marcelofabiani" target="stencila" weight="9.116" />
+      <edge id="290" source="see_linux" target="homelabit" weight="5.835000000000001" />
+      <edge id="291" source="007Hamoud" target="AdamSmitht1" weight="10.209000000000001" />
+      <edge id="292" source="sethdvincent" target="stencila" weight="60.74799999999999" />
+      <edge id="293" source="ErinLoxam" target="ElynJonesCBC" weight="75.33300000000001" />
+      <edge id="294" source="geyslern" target="pythonbot_" weight="2.5" />
+      <edge id="295" source="IgorKripter" target="triat1252" weight="80.43700000000001" />
+      <edge id="296" source="BufferBandit" target="homelabit" weight="71.166" />
+      <edge id="297" source="DataBeersMLG" target="ciro" weight="22.331000000000003" />
+      <edge id="298" source="RohitTRao14" target="mnitabach" weight="5.439" />
+      <edge id="299" source="burckhap" target="stencila" weight="6.95" />
+      <edge id="300" source="bizsto100" target="triat1252" weight="50.695" />
+      <edge id="301" source="ItsecJ" target="oxenfree89" weight="3.918" />
+      <edge id="302" source="pybot3" target="AdamSmitht1" weight="12.665000000000001" />
+      <edge id="303" source="glenbeer" target="pythonbot_" weight="384.47700000000003" />
+      <edge id="304" source="Cryptohelp_xyz" target="triat1252" weight="57.245000000000005" />
+      <edge id="305" source="jerpli" target="AdamSmitht1" weight="8.203999999999999" />
+      <edge id="306" source="HeatherHintze" target="ElynJonesCBC" weight="58.001000000000005" />
+      <edge id="307" source="vidriloco" target="stencila" weight="35.505" />
+      <edge id="308" source="1hourpro" target="triat1252" weight="795.3330000000001" />
+      <edge id="309" source="JaminBenB" target="triat1252" weight="5168.466" />
+      <edge id="310" source="IanHawke" target="stencila" weight="23.449" />
+      <edge id="311" source="giorgosmit" target="mnitabach" weight="26.181" />
+      <edge id="312" source="TheTechRegular" target="triat1252" weight="135.497" />
+      <edge id="313" source="awallon555" target="triat1252" weight="44.519000000000005" />
+      <edge id="314" source="psd2ohtml" target="AdamSmitht1" weight="18.714" />
+      <edge id="315" source="patrickhausmann" target="stencila" weight="14.397" />
+      <edge id="316" source="arthurostapenko" target="stencila" weight="31.837000000000003" />
+      <edge id="317" source="DinoRudniski" target="ElynJonesCBC" weight="30.85" />
+      <edge id="318" source="Charlie_Cawood" target="ElynJonesCBC" weight="92.464" />
+      <edge id="319" source="IsabellaGollini" target="ciro" weight="13.701" />
+      <edge id="320" source="Olaru_MP" target="pythonbot_" weight="21.998" />
+      <edge id="321" source="turavince" target="AdamSmitht1" weight="0.909" />
+      <edge id="322" source="SpacePirate_io" target="triat1252" weight="22.367" />
+      <edge id="323" source="JustStacked" target="oxenfree89" weight="72.08300000000001" />
+      <edge id="324" source="keybits" target="stencila" weight="16.416" />
+      <edge id="325" source="dsouzamichaelc" target="ElynJonesCBC" weight="46.31700000000001" />
+      <edge id="326" source="dannyhynes7" target="stencila" weight="4.220000000000001" />
+      <edge id="327" source="phkaznowski" target="JustOpenSourced" weight="43.613" />
+      <edge id="328" source="nine_oh" target="triat1252" weight="54096.183" />
+      <edge id="329" source="pavlov_eugene" target="AdamSmitht1" weight="42.001000000000005" />
+      <edge id="330" source="BlockchainAge" target="triat1252" weight="838.5780000000001" />
+      <edge id="331" source="CordeiroRick" target="JustOpenSourced" weight="24303.585000000003" />
+      <edge id="332" source="AmiRojkes" target="triat1252" weight="142.366" />
+      <edge id="333" source="Yukongraham" target="ElynJonesCBC" weight="467.95000000000005" />
+      <edge id="334" source="schamau" target="nafhha" weight="547.647" />
+      <edge id="335" source="NokomeBentley" target="stencila" weight="8.0" />
+      <edge id="336" source="npscience" target="stencila" weight="32.833" />
+      <edge id="337" source="netbek" target="stencila" weight="13.949000000000002" />
+      <edge id="338" source="jaromil" target="oxenfree89" weight="447.50100000000003" />
+      <edge id="339" source="JasonWilliamsNY" target="stencila" weight="57.284000000000006" />
+      <edge id="340" source="BrendaB56441595" target="triat1252" weight="18.936000000000003" />
+      <edge id="341" source="cheburovche" target="triat1252" weight="87.95" />
+      <edge id="342" source="viennahtml" target="stencila" weight="20.582" />
+      <edge id="343" source="DeepLearningSV" target="errahul289" weight="1004.149" />
+      <edge id="344" source="yeatheysaidit" target="MrDevilAdvocate" weight="5.484000000000001" />
+      <edge id="345" source="TwinklePortal" target="triat1252" weight="813.5830000000001" />
+      <edge id="346" source="JadeRenee" target="MrDevilAdvocate" weight="11.067" />
+      <edge id="347" source="cristiano68" target="homelabit" weight="12.671000000000001" />
+      <edge id="348" source="carminspalace" target="ElynJonesCBC" weight="3191.0" />
+      <edge id="349" source="InetUnlimited" target="JustOpenSourced" weight="245.0" />
+      <edge id="350" source="drjoyce_knudsen" target="ciro" weight="54200.566000000006" />
+      <edge id="351" source="John_Macintosh" target="ElynJonesCBC" weight="23.900000000000002" />
+      <edge id="352" source="Penguin2600" target="pythonbot_" weight="1.6500000000000001" />
+      <edge id="353" source="EdEDock" target="pythonbot_" weight="432.01000000000005" />
+      <edge id="354" source="ceelogre" target="pythonbot_" weight="112.19900000000001" />
+      <edge id="355" source="laurencebergin" target="ElynJonesCBC" weight="19.839" />
+      <edge id="356" source="SpeedWapp" target="JustOpenSourced" weight="28.593000000000004" />
+      <edge id="357" source="DBetebenner" target="stencila" weight="29.633" />
+      <edge id="358" source="24warez" target="triat1252" weight="65.71900000000001" />
+      <edge id="359" source="ShozF" target="AdamSmitht1" weight="14.249000000000002" />
+      <edge id="360" source="EspersCoin" target="triat1252" weight="168.26" />
+      <edge id="361" source="TechGeekRebel" target="pythonbot_" weight="4350.167" />
+      <edge id="362" source="GeemanYip" target="AdamSmitht1" weight="631.498" />
+      <edge id="363" source="iamchrisuzoh" target="AdamSmitht1" weight="13.335" />
+      <edge id="364" source="RobBriersNapier" target="stencila" weight="25.17" />
+      <edge id="365" source="AmyOh89" target="oxenfree89" weight="480.84200000000004" />
+      <edge id="366" source="AnnDooseTO" target="ElynJonesCBC" weight="27.004000000000005" />
+      <edge id="367" source="MoyaBrannan" target="AdamSmitht1" weight="163.41400000000002" />
+      <edge id="368" source="ShaoxingRuef" target="JFoss117" weight="2.7" />
+      <edge id="369" source="PapillonV5" target="triat1252" weight="145.298" />
+      <edge id="370" source="DanielFritzEU" target="ciro" weight="116.86700000000002" />
+      <edge id="371" source="redaready" target="stencila" weight="1.2000000000000002" />
+      <edge id="372" source="BlakeEmily" target="ElynJonesCBC" weight="48.85" />
+      <edge id="373" source="girish946" target="pythonbot_" weight="14.712000000000002" />
+      <edge id="374" source="GalenChris" target="AdamSmitht1" weight="45.893" />
+      <edge id="375" source="SerB1979" target="triat1252" weight="43.895" />
+      <edge id="376" source="henrymbuguak" target="pythonbot_" weight="88.046" />
+      <edge id="377" source="critblue" target="AdamSmitht1" weight="31.714" />
+      <edge id="378" source="jessica_microbe" target="stencila" weight="6.5" />
+      <edge id="379" source="shehyrdin" target="triat1252" weight="79.915" />
+      <edge id="380" source="skepticmarkus1" target="triat1252" weight="65.519" />
+      <edge id="381" source="NewCoinWord" target="triat1252" weight="61.71900000000001" />
+      <edge id="382" source="tapmarques" target="AdamSmitht1" weight="2.15" />
+      <edge id="383" source="sneakersdrop" target="MaymeBerry2" weight="3314.367" />
+      <edge id="384" source="pengkiat" target="AdamSmitht1" weight="6.438" />
+      <edge id="385" source="CBCMorningLive" target="ElynJonesCBC" weight="232.149" />
+      <edge id="386" source="Informed_AI" target="pythonbot_" weight="66.516" />
+      <edge id="387" source="MardwinF" target="AdamSmitht1" weight="5.75" />
+      <edge id="388" source="elthenerd" target="stencila" weight="49.249" />
+      <edge id="389" source="codedesignwire" target="AdamSmitht1" weight="11.352" />
+      <edge id="390" source="ausdyk" target="pythonbot_" weight="18.829" />
+      <edge id="391" source="yukonbeer" target="ElynJonesCBC" weight="162.483" />
+      <edge id="392" source="BoozyBrain" target="mnitabach" weight="37.234" />
+      <edge id="393" source="sohail_here" target="AdamSmitht1" weight="14.179" />
+      <edge id="394" source="MNTF" target="ElynJonesCBC" weight="194.966" />
+      <edge id="395" source="BauLandscape" target="AdamSmitht1" weight="5.7490000000000006" />
+      <edge id="396" source="viviennemn" target="ElynJonesCBC" weight="35.268" />
+      <edge id="397" source="o_revollat" target="stencila" weight="5.226000000000001" />
+      <edge id="398" source="EricPucho" target="JustOpenSourced" weight="53.150000000000006" />
+      <edge id="399" source="CarlForrest" target="pythonbot_" weight="2629.617" />
+      <edge id="400" source="openscience" target="stencila" weight="2490.309" />
+      <edge id="401" source="OA_Button" target="stencila" weight="387.677" />
+      <edge id="402" source="georgehousing" target="ElynJonesCBC" weight="17.502" />
+      <edge id="403" source="614ckc0ke" target="AdamSmitht1" weight="7.665000000000001" />
+      <edge id="404" source="JohnSnowLabs" target="oxenfree89" weight="716.616" />
+      <edge id="405" source="Lionheart0075" target="triat1252" weight="7086.2300000000005" />
+      <edge id="406" source="GcelloPi" target="_noelove" weight="84.4" />
+      <edge id="407" source="benthebray" target="stencila" weight="190.13300000000004" />
+      <edge id="408" source="Lord_Alveric" target="AdamSmitht1" weight="16.95" />
+      <edge id="409" source="UrbanLoveUlcer" target="triat1252" weight="1128.067" />
+      <edge id="410" source="TheSlayNetwork_" target="triat1252" weight="76.10000000000001" />
+      <edge id="411" source="Apprenda" target="JustOpenSourced" weight="603.933" />
+      <edge id="412" source="JeffBlaskie" target="pythonbot_" weight="46.967000000000006" />
+      <edge id="413" source="ParYeezus" target="MaymeBerry2" weight="4233.1" />
+      <edge id="414" source="edgenorth_" target="ElynJonesCBC" weight="166.05" />
+      <edge id="415" source="alegonbel" target="IFB_Bioinfo" weight="38.364" />
+      <edge id="416" source="ipfconline1" target="errahul289" weight="2289.6580000000004" />
+      <edge id="417" source="biocores_" target="IFB_Bioinfo" weight="24.467" />
+      <edge id="418" source="macagua" target="JustOpenSourced" weight="127.798" />
+      <edge id="419" source="OaklandSam" target="AdamSmitht1" weight="64.15" />
+      <edge id="420" source="Argentus" target="AdamSmitht1" weight="154.048" />
+      <edge id="421" source="WebSavi" target="JustOpenSourced" weight="10.918000000000001" />
+      <edge id="422" source="SergeyKochergan" target="AdamSmitht1" weight="1647.45" />
+      <edge id="423" source="Knarfkcaon" target="AdamSmitht1" weight="860.9000000000001" />
+      <edge id="424" source="Knarfkcaon" target="JustOpenSourced" weight="860.9000000000001" />
+      <edge id="425" source="Isaac_M_Jordan" target="AdamSmitht1" weight="38.201" />
+      <edge id="426" source="simon_swain" target="stencila" weight="48.900000000000006" />
+      <edge id="427" source="_seraph1" target="JustOpenSourced" weight="117.03" />
+      <edge id="428" source="Merz" target="stencila" weight="29.253" />
+      <edge id="429" source="76Pauls" target="ElynJonesCBC" weight="8.3" />
+      <edge id="430" source="d_neville" target="JustOpenSourced" weight="43.25" />
+      <edge id="431" source="fpinfosec" target="homelabit" weight="13.194" />
+      <edge id="432" source="Aegiscanada" target="AdamSmitht1" weight="33.075" />
+      <edge id="433" source="asutoshjg" target="JustOpenSourced" weight="29.977999999999998" />
+      <edge id="434" source="CALLR" target="pythonbot_" weight="45.650000000000006" />
+      <edge id="435" source="h2002al" target="triat1252" weight="53.78200000000001" />
+      <edge id="436" source="walterra" target="stencila" weight="36.549" />
+      <edge id="437" source="iMohammed3li" target="AdamSmitht1" weight="20.999000000000002" />
+      <edge id="438" source="Boostnoteapp" target="oxenfree89" weight="45.717000000000006" />
+      <edge id="439" source="SimpleCryptoNew" target="triat1252" weight="71.82100000000001" />
+      <edge id="440" source="monsterbashseq" target="stencila" weight="29.729000000000003" />
+      <edge id="441" source="atreya_puru" target="pythonbot_" weight="69.433" />
+      <edge id="442" source="OBDhandbags" target="MaymeBerry2" weight="25.216" />
+      <edge id="443" source="SeleneVakharia" target="ElynJonesCBC" weight="13.826" />
+      <edge id="444" source="allemossilva" target="triat1252" weight="872.4770000000001" />
+      <edge id="445" source="tarakc02" target="stencila" weight="3.357" />
+      <edge id="446" source="barbariankb" target="JustOpenSourced" weight="36.044000000000004" />
+      <edge id="447" source="juancommander" target="stencila" weight="76.047" />
+      <edge id="448" source="ajmuk" target="JustOpenSourced" weight="139.683" />
+      <edge id="449" source="redditprogtop" target="oxenfree89" weight="21.051000000000002" />
+      <edge id="450" source="redmer" target="stencila" weight="5.797000000000001" />
+      <edge id="451" source="remotepython" target="oxenfree89" weight="50.683" />
+      <edge id="452" source="remotepython" target="JustOpenSourced" weight="50.683" />
+      <edge id="453" source="tmanning" target="stencila" weight="56.7" />
+      <edge id="454" source="symfonycol" target="AdamSmitht1" weight="37.217000000000006" />
+      <edge id="455" source="MPCifuentes" target="ciro" weight="3.347" />
+      <edge id="456" source="Eclitech_RCP" target="JustOpenSourced" weight="176.86900000000003" />
+      <edge id="457" source="mahidhh" target="nafhha" weight="10.75" />
+      <edge id="458" source="eojmf" target="AdamSmitht1" weight="15.75" />
+      <edge id="459" source="FHACKdotCOM" target="homelabit" weight="11.175" />
+      <edge id="460" source="kapsystem" target="AdamSmitht1" weight="223.4" />
+      <edge id="461" source="_Data_Science_" target="errahul289" weight="132.766" />
+      <edge id="462" source="_Data_Science_" target="LearnRinaDay" weight="132.766" />
+      <edge id="463" source="FXS_Finance_SE" target="triat1252" weight="1094.45" />
+      <edge id="464" source="android_thing" target="AdamSmitht1" weight="54.764" />
+      <edge id="465" source="Splash_Campbell" target="ElynJonesCBC" weight="25.649" />
+      <edge id="466" source="facetimeJS" target="AdamSmitht1" weight="62.449000000000005" />
+      <edge id="467" source="Coin_Word" target="triat1252" weight="50.919000000000004" />
+      <edge id="468" source="jacominicarnes" target="triat1252" weight="12881.116000000002" />
+      <edge id="469" source="elseif_net" target="oxenfree89" weight="74.831" />
+      <edge id="470" source="NewsRua" target="triat1252" weight="76.654" />
+      <edge id="471" source="syafiza" target="JustOpenSourced" weight="112.7" />
+      <edge id="472" source="torikavi" target="triat1252" weight="1107.2" />
+      <edge id="473" source="goettl" target="ciro" weight="8.417" />
+      <edge id="474" source="perecerda" target="triat1252" weight="5856.483" />
+      <edge id="475" source="cliffbaldridge" target="triat1252" weight="654.4180000000001" />
+      <edge id="476" source="DownsEarl" target="AdamSmitht1" weight="5.1000000000000005" />
+      <edge id="477" source="saviaga" target="AdamSmitht1" weight="321.50300000000004" />
+      <edge id="478" source="SentinelAgent" target="AdamSmitht1" weight="241.49699999999999" />
+      <edge id="479" source="DidiMohd" target="triat1252" weight="2531.0840000000003" />
+      <edge id="480" source="randal_olson" target="stencila" weight="5392.669000000001" />
+      <edge id="481" source="Jane_yubo" target="stencila" weight="2.5940000000000003" />
+      <edge id="482" source="BitcoinMarley" target="triat1252" weight="91.13300000000001" />
+      <edge id="483" source="edwardbenson" target="stencila" weight="322.92900000000003" />
+      <edge id="484" source="Colombina_2" target="triat1252" weight="130.764" />
+      <edge id="485" source="jclopeztavera" target="stencila" weight="24.8" />
+      <edge id="486" source="naupakaz" target="stencila" weight="76.61" />
+      <edge id="487" source="kirstie_j" target="stencila" weight="115.734" />
+      <edge id="488" source="permadesign" target="stencila" weight="5.817" />
+      <edge id="489" source="awkso" target="AdamSmitht1" weight="160.805" />
+      <edge id="490" source="sellorm" target="stencila" weight="35.847" />
+      <edge id="491" source="KuduKir" target="triat1252" weight="310.704" />
+      <edge id="492" source="YukonVet" target="ElynJonesCBC" weight="344.033" />
+      <edge id="493" source="AZushel" target="triat1252" weight="141.178" />
+      <edge id="494" source="AyoAlfonso" target="JustOpenSourced" weight="39.833" />
+      <edge id="495" source="waynemaurer" target="stencila" weight="266.987" />
+      <edge id="496" source="sirinath" target="stencila" weight="44.232" />
+      <edge id="497" source="pseemakurthi" target="JustOpenSourced" weight="38.965" />
+      <edge id="498" source="thetaoofken" target="ElynJonesCBC" weight="46.0" />
+      <edge id="499" source="Tone_Dev3" target="pythonbot_" weight="34.185" />
+      <edge id="500" source="Python_Dev_12" target="ciro" weight="35.367000000000004" />
+      <edge id="501" source="RavitejaMandiga" target="AdamSmitht1" weight="0.667" />
+      <edge id="502" source="vijesh" target="stencila" weight="23.767" />
+      <edge id="503" source="Bit_My_Ass" target="triat1252" weight="486.367" />
+      <edge id="504" source="planetbitco" target="triat1252" weight="263.115" />
+      <edge id="505" source="codersday" target="stencila" weight="7.0" />
+      <edge id="506" source="Namestream" target="triat1252" weight="655.782" />
+      <edge id="507" source="ODiogoSilva" target="stencila" weight="7.933" />
+      <edge id="508" source="bjoerngoerke" target="triat1252" weight="187.034" />
+      <edge id="509" source="NamurReyes" target="AdamSmitht1" weight="80.4" />
+      <edge id="510" source="jamesjara" target="AdamSmitht1" weight="34.517" />
+      <edge id="511" source="bitcoinagile" target="triat1252" weight="1079.6000000000001" />
+      <edge id="512" source="msocias" target="stencila" weight="15.493000000000002" />
+      <edge id="513" source="arvestad" target="stencila" weight="31.693" />
+      <edge id="514" source="Pompeee" target="nafhha" weight="84.65" />
+      <edge id="515" source="AlmirMustafic" target="AdamSmitht1" weight="16.467000000000002" />
+      <edge id="516" source="DahBerger" target="_noelove" weight="192.10000000000002" />
+      <edge id="517" source="Lamxline" target="homelabit" weight="144.028" />
+      <edge id="518" source="rbecheras" target="JustOpenSourced" weight="59.766999999999996" />
+      <edge id="519" source="KaseyKlimes" target="stencila" weight="84.09100000000001" />
+      <edge id="520" source="CryptoBismuth" target="triat1252" weight="127.033" />
+      <edge id="521" source="Fikiy8" target="triat1252" weight="49.296" />
+      <edge id="522" source="JennyBryan" target="stencila" weight="504.169" />
+      <edge id="523" source="pix" target="oxenfree89" weight="655.903" />
+      <edge id="524" source="ParkerBrand" target="FUNRADIO929NEWS" weight="38.95" />
+      <edge id="525" source="lilrhodey" target="pythonbot_" weight="17.267000000000003" />
+      <edge id="526" source="eduardbulai" target="oxenfree89" weight="1248.8029999999999" />
+      <edge id="527" source="gugadev" target="pythonbot_" weight="4.408" />
+      <edge id="528" source="AJAlgmin" target="JustOpenSourced" weight="93.06700000000001" />
+      <edge id="529" source="m1guelpf" target="JustOpenSourced" weight="56.52000000000001" />
+      <edge id="530" source="BradyStrachan" target="ElynJonesCBC" weight="159.21500000000003" />
+      <edge id="531" source="ursusinc" target="AdamSmitht1" weight="46.167" />
+      <edge id="532" source="ursusinc" target="tmj_atl_jobs" weight="46.167" />
+      <edge id="533" source="medunes" target="pythonbot_" weight="27.967" />
+      <edge id="534" source="tdkinser" target="AdamSmitht1" weight="2956.75" />
+      <edge id="535" source="RTCallahan" target="pythonbot_" weight="8.700000000000001" />
+      <edge id="536" source="matpatc" target="triat1252" weight="8.901000000000002" />
+      <edge id="537" source="j2112o" target="AdamSmitht1" weight="9.267000000000001" />
+      <edge id="538" source="TunstallAsc" target="triat1252" weight="1886.844" />
+      <edge id="539" source="slryit" target="AdamSmitht1" weight="60.623000000000005" />
+      <edge id="540" source="eLifeInnovation" target="stencila" weight="13.132" />
+      <edge id="541" source="dominusvobiscu6" target="triat1252" weight="98.09100000000001" />
+      <edge id="542" source="viralnews91" target="triat1252" weight="275.8" />
+      <edge id="543" source="UCDflowerpower" target="mnitabach" weight="35.731" />
+      <edge id="544" source="aribadernatal" target="stencila" weight="37.36600000000001" />
+      <edge id="545" source="biologeek" target="pythonbot_" weight="8.031" />
+      <edge id="546" source="arichduvet" target="oxenfree89" weight="120.84700000000001" />
+      <edge id="547" source="arichduvet" target="AdamSmitht1" weight="120.84700000000001" />
+      <edge id="548" source="arichduvet" target="JustOpenSourced" weight="120.84700000000001" />
+      <edge id="549" source="YukonMay" target="ElynJonesCBC" weight="13.100000000000001" />
+      <edge id="550" source="MikhailBoswell" target="iamspricey" weight="22.55" />
+      <edge id="551" source="emsignlimitless" target="AdamSmitht1" weight="8.932" />
+      <edge id="552" source="AwesumSawz" target="triat1252" weight="344.447" />
+      <edge id="553" source="landofcrypto" target="triat1252" weight="317.499" />
+      <edge id="554" source="rossfeller" target="stencila" weight="6.766" />
+      <edge id="555" source="omgbtc" target="triat1252" weight="93.623" />
+      <edge id="556" source="maphewyk" target="ElynJonesCBC" weight="4.5" />
+      <edge id="557" source="IanMulvany" target="stencila" weight="140.64600000000002" />
+      <edge id="558" source="t_higa" target="JustOpenSourced" weight="10.858" />
+      <edge id="559" source="AnthonyGuihur" target="IFB_Bioinfo" weight="18.055000000000003" />
+      <edge id="560" source="roadcrypto" target="triat1252" weight="78.266" />
+      <edge id="561" source="DevilleSy" target="stencila" weight="164.405" />
+      <edge id="562" source="mattdotvaughn" target="stencila" weight="49.513000000000005" />
+      <edge id="563" source="Vitalis3d" target="AdamSmitht1" weight="17.234" />
+      <edge id="564" source="PowwerShelly" target="AdamSmitht1" weight="1.25" />
+      <edge id="565" source="robinst" target="ElynJonesCBC" weight="91.9" />
+      <edge id="566" source="ArtByteMe" target="triat1252" weight="347.884" />
+      <edge id="567" source="RogerBeaupoil" target="mnitabach" weight="54.513000000000005" />
+      <edge id="568" source="HunterPriniski" target="mnitabach" weight="62.16700000000001" />
+      <edge id="569" source="HunterPriniski" target="stencila" weight="62.16700000000001" />
+      <edge id="570" source="gregmore" target="stencila" weight="60.78300000000001" />
+      <edge id="571" source="bitcoinislife" target="triat1252" weight="88.84800000000001" />
+      <edge id="572" source="BitcoinAtas" target="triat1252" weight="119.43299999999999" />
+      <edge id="573" source="fragillimus" target="triat1252" weight="68.82100000000001" />
+      <edge id="574" source="mne_news" target="pythonbot_" weight="11.459000000000001" />
+      <edge id="575" source="sainaresh81" target="triat1252" weight="10282.806" />
+      <edge id="576" source="Koondal1" target="ElynJonesCBC" weight="66.566" />
+      <edge id="577" source="loxadim" target="triat1252" weight="76.33300000000001" />
+      <edge id="578" source="gerrys_music" target="alryadieh" weight="1.2000000000000002" />
+      <edge id="579" source="fedeadolfi" target="stencila" weight="108.03399999999999" />
+      <edge id="580" source="UtJA11" target="ciro" weight="9.461" />
+      <edge id="581" source="Createdbycode" target="AdamSmitht1" weight="4.71" />
+      <edge id="582" source="Shekatsak" target="ElynJonesCBC" weight="52.015" />
+      <edge id="583" source="patrickjacobson" target="ElynJonesCBC" weight="34.95" />
+    </edges>
+  </graph>
+</gexf>

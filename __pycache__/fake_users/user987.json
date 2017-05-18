@@ -1,0 +1,28 @@
+{
+    "user_id": "user987",
+    "average_retweet_count": "280",
+    "average_favorite_count": "35",
+    "followers_count": "18",
+    "verified": "True",
+    "influence_score": "333",
+    "follower_list": [
+        "user9241",
+        "user57143",
+        "user90027",
+        "user92615",
+        "user72283",
+        "user86643",
+        "user55865",
+        "user62982",
+        "user23548",
+        "user36529",
+        "user922",
+        "user58367",
+        "user50482",
+        "user32151",
+        "user81037",
+        "user9122",
+        "user36333",
+        "user53910"
+    ]
+}
