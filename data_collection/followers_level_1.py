@@ -5,8 +5,8 @@
 import time
 import tweepy
 import json
-import influence_finder as finder
-import followers_level_2 as f2
+import data_collection.main as finder
+from data_collection import followers_level_2 as f2
 
 
 # Finds level 1 follower list
@@ -33,7 +33,7 @@ def get_L1_follower_profile(follower, user_screen_name):
     total_favourite = 0
     tweet_count  = 0
     follower_screen_name = follower.screen_name
-    for i in range(25):
+    for i in range(5):
         try:
             timeline = finder.api.user_timeline(follower_screen_name, page=i, count=200)
         except tweepy.TweepError as e:

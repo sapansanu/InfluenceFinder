@@ -5,7 +5,7 @@
 import time
 import tweepy
 import json
-import influence_finder as finder
+from data_collection import main as finder
 
 
 # Finds level 2 follower list
